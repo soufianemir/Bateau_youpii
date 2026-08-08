@@ -3,7 +3,7 @@ name: Validate PWA
 on:
   pull_request:
   push:
-    branches: [agent/marine-mvp]
+    branches: [main]
 
 permissions:
   contents: read
@@ -13,19 +13,27 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Check JavaScript syntax
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Check JavaScript and Python syntax
         run: |
           node --check app.js
+          node --check runtime-data.js
           node --check sw.js
+          python -m py_compile scripts/sync_official_data.py scripts/sync_cacem.py
       - name: Validate PWA files and local references
         run: |
           python3 - <<'PY'
           from pathlib import Path
-          import json, re, sys
+          import json, re
 
           required = [
-              'index.html', 'app.js', 'styles.css', 'sw.js',
-              'manifest.webmanifest', 'assets/icon.svg'
+              'index.html', 'app.js', 'runtime-data.js', 'styles.css', 'sw.js',
+              'manifest.webmanifest', 'assets/icon.svg',
+              'data/avurnav.json', 'data/shom-achare.geojson', 'data/shom-resare.geojson',
+              'data/shom-fairwy.geojson', 'data/shom-seabed.geojson', 'data/cacem-cannes.geojson',
+              'data/sentinel-latest.json', 'data/source-status.json'
           ]
           missing = [p for p in required if not Path(p).exists()]
           if missing:
@@ -36,6 +44,10 @@ jobs:
               path = icon['src'].removeprefix('./')
               if not Path(path).exists():
                   raise SystemExit(f'Missing manifest icon: {path}')
+
+          for path in Path('data').glob('*'):
+              if path.suffix in {'.json', '.geojson'}:
+                  json.loads(path.read_text(encoding='utf-8'))
 
           html = Path('index.html').read_text()
           refs = re.findall(r'(?:href|src)="(\./[^\"]+)"', html)
@@ -51,5 +63,5 @@ jobs:
               if not Path(ref).exists():
                   raise SystemExit(f'Missing service-worker asset: {ref}')
 
-          print('PWA validation OK')
+          print('PWA + official-data validation OK')
           PY
