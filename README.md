@@ -4,38 +4,59 @@ PWA mobile-first pour tester le concept d'un copilote de plaisance : **où aller
 
 > **Nom de marque provisoire.** Le nom final doit passer une recherche d'antériorité avant publication commerciale.
 
-## Fonctionnalités déjà présentes
+## Fonctionnalités
 
 - PWA installable iPhone / Android
 - GPS réel via `navigator.geolocation.watchPosition()`
-- déplacement du bateau sur la carte
-- itinéraire indicatif vers un spot et ETA recalculée
+- déplacement du bateau sur la carte, cap, vitesse, distance et ETA
 - Screen Wake Lock pendant le guidage lorsque le navigateur le supporte
-- carte MapLibre + OpenFreeMap
+- MapLibre + OpenFreeMap
 - `SEA SCORE` déterministe et explicable
-- recommandations autour de Cannes / Lérins
-- écran `Où mouiller` avec ZMEL Sainte-Anne et lien vers la source officielle
-- conditions météo / mer de prototypage via Open-Meteo (usage non commercial uniquement sur le free tier)
-- catalogue réglementaire : Préfecture maritime, Ville de Cannes, SHOM, CACEM, AVURNAV
-- architecture zéro-backend pour la V0
-- service worker et cache du shell PWA
+- recommandations Cannes / Lérins / Antibes / Théoule
+- `Où mouiller` alimenté par snapshots officiels : zones de mouillage SHOM, restrictions, chenaux, nature des fonds et CACEM
+- AVURNAV actifs à proximité dans l'écran Alertes
+- catalogue Copernicus STAC : dernières acquisitions Sentinel-1 / Sentinel-2 et inventaire Sentinel-3
+- fraîcheur et état de chaque source visibles
+- données officielles conservées localement pour un mode dégradé/offline
+- architecture sans backend permanent
 
-## Important — sécurité et droit
+## Sources et synchronisation
 
-Le MVP est un **assistant de préparation et d'aide à la décision**, pas un système de navigation homologué. Les routes et aplats cartographiques ne remplacent jamais les cartes nautiques officielles, les AVURNAV, les arrêtés ni la veille du chef de bord.
+### Toutes les 6 heures
 
-Les polygones colorés de la page `Où mouiller` sont **indicatifs pour valider l'UX**. La prochaine étape consiste à ingérer les géométries officielles SHOM/CACEM et les textes/dérogations applicables, avec version et fraîcheur.
+`.github/workflows/sync-official-data.yml` exécute `scripts/sync_official_data.py` et prépare de petits snapshots pour la zone Cannes / Antibes / Îles de Lérins :
 
-Open-Meteo est utilisé ici pour prototypage personnel. Son endpoint gratuit n'autorise pas l'usage commercial (publicité, abonnement, etc.). Le `WeatherProvider` devra être remplacé ou auto-hébergé/licencié avant monétisation.
+- SHOM WFS `achare_polygon` : zones de mouillage
+- SHOM WFS `resare_polygon` : zones de restriction
+- SHOM WFS `fairwy_polygon` : chenaux
+- SHOM WFS `natures_fond_g_2016` : nature des fonds
+- API AVURNAV Méditerranée, filtrée à proximité de Cannes
+- Copernicus Data Space STAC : Sentinel-1 GRD et Sentinel-2 L2A
 
-## Sources ciblées
+### Hebdomadaire
 
-- SHOM — Réglementation Navigation : https://www.data.gouv.fr/datasets/reglementation-navigation-1
-- CACEM — zones réglementaires : https://www.data.gouv.fr/datasets/zones-reglementaires-cacem
+`.github/workflows/sync-cacem.yml` télécharge le GeoPackage national CACEM, le découpe à la bbox du MVP avec GDAL puis ne commit que le petit GeoJSON utile à l'application.
+
+Le job est volontairement hebdomadaire car le fichier national est volumineux.
+
+## Sécurité et droit
+
+Le produit reste un **assistant de préparation et d'aide à la décision**, pas un système de navigation homologué. Les routes affichées ne remplacent jamais cartes nautiques officielles, AVURNAV, arrêtés, balisage ni veille du chef de bord.
+
+- Les couches SHOM sont affichées avec attribution et provenance.
+- Le CACEM précise que ses tracés sont une interprétation : seuls les textes réglementaires font foi.
+- Une donnée indisponible ne devient jamais une fausse donnée : le dernier snapshot connu est conservé et son âge reste visible.
+- La route actuelle reste indicative ; le futur routing H3/A* devra intégrer terre, restrictions et données navigation-grade adaptées.
+
+Open-Meteo est utilisé dans la V0 pour prototypage personnel. Son endpoint gratuit ne doit pas être utilisé pour la monétisation ; ce provider devra être remplacé/licencié avant publicité ou usage commercial.
+
+## Sources
+
+- SHOM Réglementation-Navigation : https://www.data.gouv.fr/datasets/reglementation-navigation-1
+- CACEM : https://www.data.gouv.fr/datasets/zones-reglementaires-cacem
 - AVURNAV : https://www.data.gouv.fr/datasets/avis-urgents-aux-navigateurs-en-vigueur-en-eaux-francaises-metropolitaines
 - Préfecture maritime Méditerranée : https://www.premar-mediterranee.gouv.fr/arretes
-- Ville de Cannes — arrêtés : https://www.cannes.com/fr/cadre-de-vie/prevention-des-risques-majeurs-securite/securite/arretes-permanents.html
-- ZMEL Sainte-Anne : https://www.cannes.com/fr/cadre-de-vie/plages-mer-nautisme/zone-de-mouillage-et-d-equipements-legers-zmel.html
+- Ville de Cannes : https://www.cannes.com/fr/cadre-de-vie/prevention-des-risques-majeurs-securite/securite/arretes-permanents.html
 - Copernicus Marine : https://data.marine.copernicus.eu/
 - Copernicus Data Space : https://dataspace.copernicus.eu/
 
@@ -49,16 +70,26 @@ python3 -m http.server 8080
 
 Puis ouvrir `http://localhost:8080`.
 
-## Déploiement
+## Déployer gratuitement sur GitHub Pages
 
-Le workflow `.github/workflows/pages.yml` publie le site statique sur GitHub Pages à chaque push sur `main` une fois GitHub Pages configuré avec **GitHub Actions** comme source.
+Le dépôt contient déjà `.github/workflows/pages.yml`.
 
-## Prochaines étapes produit
+1. GitHub → dépôt `Bateau_youpii` → **Settings**.
+2. Dans la colonne de gauche : **Pages**.
+3. Dans **Build and deployment / Source**, choisir **GitHub Actions**.
+4. Aller dans **Actions** et lancer `Deploy Marine PWA to GitHub Pages` si aucun déploiement n'est parti automatiquement.
+5. Le site projet sera normalement disponible sous `https://soufianemir.github.io/Bateau_youpii/`.
 
-1. Ingestion réelle des géométries SHOM/CACEM autour de Cannes.
-2. Synchronisation AVURNAV + arrêtés Préfecture maritime avec détection des dates d'effet.
-3. Pipeline Copernicus Marine et Sentinel-1/2/3 avec métadonnées de fraîcheur.
-4. Routing côtier local H3/A* en Web Worker, puis validation géométrique.
-5. Calcul d'un `Anchor Score`, `Comfort Score`, `Data Confidence` et explication « Pourquoi ? ».
-6. Contributions communautaires et prédiction d'affluence.
-7. Passage en natif/hybride uniquement lorsque le GPS background / alarme d'ancre devient nécessaire.
+Le workflow publie automatiquement chaque nouveau commit de `main`.
+
+> GitHub Pages convient au MVP public gratuit et au test. Pour une future version commerciale avec publicité/SaaS, migrer le même site statique vers Cloudflare Pages ou une autre plateforme autorisant explicitement cet usage.
+
+## Prochaines étapes
+
+1. Vérifier les premiers snapshots générés par les workflows et affiner le mapping des attributs SHOM/CACEM.
+2. Ajouter les arrêtés temporaires de la Préfecture maritime et des communes comme données structurées.
+3. Brancher Copernicus Marine comme provider océanique de production.
+4. Construire le routing côtier local H3/A* et son contrôle géométrique.
+5. Ajouter Anchor Score / Comfort Score / Data Confidence et explication « Pourquoi ? ».
+6. Ajouter contributions communautaires et prédiction d'affluence.
+7. Passer en natif/hybride seulement quand GPS background / alarme d'ancre l'exigent.
