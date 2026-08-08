@@ -8,10 +8,8 @@ from __future__ import annotations
 
 import json
 import math
-import os
 import sys
 import time
-import urllib.error
 import urllib.parse
 import urllib.request
 from datetime import datetime, timedelta, timezone
@@ -23,7 +21,7 @@ DATA.mkdir(exist_ok=True)
 
 BBOX = (6.80, 43.45, 7.22, 43.68)  # west, south, east, north — Cannes / Antibes / Lérins
 CENTER = (7.0302, 43.5484)
-UA = "Bateau-youpii-MVP/0.2 (+https://github.com/soufianemir/Bateau_youpii)"
+UA = "Bateau-youpii-MVP/0.3 (+https://github.com/soufianemir/Bateau_youpii)"
 
 SHOM_WFS = "https://services.data.shom.fr/INSPIRE/wfs"
 AVURNAV_ROOT = "https://avurnav.antoine-augusti.fr"
@@ -125,11 +123,14 @@ def wfs_url(type_name: str) -> str:
 
 
 def sync_shom(status: list[dict]) -> None:
+    # Only endpoints confirmed to be anonymously accessible are polled automatically.
+    # The SHOM seabed-nature WFS currently answers 401 without credentials, so the MVP
+    # intentionally does not pretend that layer is available. A verified open/licensed
+    # substrate provider will replace data/shom-seabed.geojson later.
     layers = {
         "shom-achare.geojson": "REGLEMENTATION_NAVIGATION_BDD_WFS:achare_polygon",
         "shom-resare.geojson": "REGLEMENTATION_NAVIGATION_BDD_WFS:resare_polygon",
         "shom-fairwy.geojson": "REGLEMENTATION_NAVIGATION_BDD_WFS:fairwy_polygon",
-        "shom-seabed.geojson": "NDF_BDD_WLD_WGS84G_WFS:natures_fond_g_2016",
     }
     for filename, type_name in layers.items():
         try:
@@ -147,6 +148,13 @@ def sync_shom(status: list[dict]) -> None:
         except Exception as exc:
             status.append({"source": f"SHOM {type_name.split(':')[-1]}", "ok": False, "error": str(exc), "updated_at": now_iso()})
             print(f"SHOM warning {type_name}: {exc}", file=sys.stderr)
+    status.append({
+        "source": "Nature du fond",
+        "ok": False,
+        "skipped": True,
+        "note": "Source automatique non branchée : le WFS SHOM testé exige une authentification. Aucune nature de fond n'est inventée.",
+        "updated_at": now_iso(),
+    })
 
 
 def stac_search(collection: str, days: int = 14, limit: int = 8):
@@ -217,8 +225,8 @@ def main() -> int:
         "sources": status,
         "cacem": previous.get("cacem", {"ok": False, "note": "Run the weekly CACEM workflow to refresh the clipped layer."}),
     })
-    failures = [s for s in status if not s.get("ok")]
-    print(f"Official-data sync completed: {len(status)-len(failures)} OK, {len(failures)} unavailable; last-known-good files preserved.")
+    failures = [s for s in status if not s.get("ok") and not s.get("skipped")]
+    print(f"Official-data sync completed: {len(status)-len(failures)} usable/skipped, {len(failures)} unavailable; last-known-good files preserved.")
     return 0
 
 
