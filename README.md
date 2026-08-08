@@ -13,7 +13,7 @@ PWA mobile-first pour tester le concept d'un copilote de plaisance : **où aller
 - MapLibre + OpenFreeMap
 - `SEA SCORE` déterministe et explicable
 - recommandations Cannes / Lérins / Antibes / Théoule
-- `Où mouiller` alimenté par snapshots officiels : zones de mouillage SHOM, restrictions, chenaux, nature des fonds et CACEM
+- `Où mouiller` alimenté par snapshots officiels : zones de mouillage SHOM, restrictions, chenaux et CACEM
 - AVURNAV actifs à proximité dans l'écran Alertes
 - catalogue Copernicus STAC : dernières acquisitions Sentinel-1 / Sentinel-2 et inventaire Sentinel-3
 - fraîcheur et état de chaque source visibles
@@ -29,9 +29,10 @@ PWA mobile-first pour tester le concept d'un copilote de plaisance : **où aller
 - SHOM WFS `achare_polygon` : zones de mouillage
 - SHOM WFS `resare_polygon` : zones de restriction
 - SHOM WFS `fairwy_polygon` : chenaux
-- SHOM WFS `natures_fond_g_2016` : nature des fonds
 - API AVURNAV Méditerranée, filtrée à proximité de Cannes
 - Copernicus Data Space STAC : Sentinel-1 GRD et Sentinel-2 L2A
+
+La **nature du fond n'est pas encore utilisée dans le calcul de mouillage** : le WFS SHOM testé pour cette couche exige une authentification. Le MVP l'indique comme source non branchée et n'invente jamais `sable`, `roche`, etc. Une source ouverte ou licenciée vérifiée devra être ajoutée avant l'Anchor Score avancé.
 
 ### Hebdomadaire
 
@@ -86,10 +87,11 @@ Le workflow publie automatiquement chaque nouveau commit de `main`.
 
 ## Prochaines étapes
 
-1. Vérifier les premiers snapshots générés par les workflows et affiner le mapping des attributs SHOM/CACEM.
+1. Vérifier le premier snapshot CACEM et affiner le mapping de ses attributs.
 2. Ajouter les arrêtés temporaires de la Préfecture maritime et des communes comme données structurées.
-3. Brancher Copernicus Marine comme provider océanique de production.
-4. Construire le routing côtier local H3/A* et son contrôle géométrique.
-5. Ajouter Anchor Score / Comfort Score / Data Confidence et explication « Pourquoi ? ».
-6. Ajouter contributions communautaires et prédiction d'affluence.
-7. Passer en natif/hybride seulement quand GPS background / alarme d'ancre l'exigent.
+3. Brancher une source vérifiée de nature du fond / habitat / posidonie.
+4. Brancher Copernicus Marine comme provider océanique de production.
+5. Construire le routing côtier local H3/A* et son contrôle géométrique.
+6. Ajouter Anchor Score / Comfort Score / Data Confidence et explication « Pourquoi ? ».
+7. Ajouter contributions communautaires et prédiction d'affluence.
+8. Passer en natif/hybride seulement quand GPS background / alarme d'ancre l'exigent.
