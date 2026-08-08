@@ -1,0 +1,14 @@
+{
+  "name": "Marine Companion — MVP",
+  "short_name": "Marine",
+  "description": "Assistant intelligent pour les sorties en mer et le mouillage côtier.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f8fb",
+  "theme_color": "#071f33",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "./assets/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
