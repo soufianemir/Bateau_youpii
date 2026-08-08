@@ -14,8 +14,8 @@ permissions:
   contents: write
 
 concurrency:
-  group: cacem-sync
-  cancel-in-progress: true
+  group: marine-data-sync
+  cancel-in-progress: false
 
 jobs:
   sync:
