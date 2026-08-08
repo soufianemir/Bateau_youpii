@@ -1,1 +1,281 @@
-{"type":"FeatureCollection","features":[],"marine_meta":{"source":"Shom","generated_at":null}}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "fairwy_polygon.237",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.04733317,
+              43.51061288
+            ],
+            [
+              7.04699999,
+              43.51062369
+            ],
+            [
+              7.04566671,
+              43.51066669
+            ],
+            [
+              7.04383342,
+              43.510785
+            ],
+            [
+              7.04308414,
+              43.51083328
+            ],
+            [
+              7.04300069,
+              43.51083869
+            ],
+            [
+              7.04049996,
+              43.511
+            ],
+            [
+              7.03833331,
+              43.511
+            ],
+            [
+              7.0360798,
+              43.51013878
+            ],
+            [
+              7.03544864,
+              43.5129981
+            ],
+            [
+              7.03833331,
+              43.51183332
+            ],
+            [
+              7.04049996,
+              43.51166667
+            ],
+            [
+              7.04566671,
+              43.51150002
+            ],
+            [
+              7.05083328,
+              43.5113333
+            ],
+            [
+              7.05600003,
+              43.51116672
+            ],
+            [
+              7.06116669,
+              43.51083328
+            ],
+            [
+              7.06596504,
+              43.51068461
+            ],
+            [
+              7.06179766,
+              43.50852218
+            ],
+            [
+              7.06000004,
+              43.51016673
+            ],
+            [
+              7.05600003,
+              43.51033332
+            ],
+            [
+              7.05083328,
+              43.51049997
+            ],
+            [
+              7.04733317,
+              43.51061288
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "inspireid": "FR000009784000003",
+        "drval1": null,
+        "orient": null,
+        "trafic": null,
+        "restrn": "2,12,27",
+        "status": null,
+        "objnam": null,
+        "nobjnm": null,
+        "inform": "The speed limit is 5 knots (see French sailing directions).",
+        "ninfom": "La vitesse est limitée à 5 noeuds (voir Instructions Nautiques)."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fairwy_polygon.238",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.04383342,
+              43.510785
+            ],
+            [
+              7.04383576,
+              43.50926999
+            ],
+            [
+              7.04380998,
+              43.50926999
+            ],
+            [
+              7.04376003,
+              43.50926999
+            ],
+            [
+              7.04369481,
+              43.50926178
+            ],
+            [
+              7.04367999,
+              43.50926002
+            ],
+            [
+              7.04360004,
+              43.50926002
+            ],
+            [
+              7.04354506,
+              43.50927572
+            ],
+            [
+              7.04352997,
+              43.50928002
+            ],
+            [
+              7.04343996,
+              43.50928999
+            ],
+            [
+              7.04329003,
+              43.50928999
+            ],
+            [
+              7.04315996,
+              43.50928999
+            ],
+            [
+              7.04299997,
+              43.50927318
+            ],
+            [
+              7.04300069,
+              43.51083869
+            ],
+            [
+              7.04308414,
+              43.51083328
+            ],
+            [
+              7.04383342,
+              43.510785
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "inspireid": "FR000009784500003",
+        "drval1": null,
+        "orient": null,
+        "trafic": null,
+        "restrn": "2,12,27",
+        "status": null,
+        "objnam": null,
+        "nobjnm": null,
+        "inform": null,
+        "ninfom": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fairwy_polygon.239",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.04733317,
+              43.51061288
+            ],
+            [
+              7.04733191,
+              43.50944922
+            ],
+            [
+              7.04733003,
+              43.50945
+            ],
+            [
+              7.04712,
+              43.50945997
+            ],
+            [
+              7.04712844,
+              43.50937612
+            ],
+            [
+              7.04700996,
+              43.50934003
+            ],
+            [
+              7.04699999,
+              43.50935293
+            ],
+            [
+              7.04699999,
+              43.51062369
+            ],
+            [
+              7.04733317,
+              43.51061288
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "inspireid": "FR000009784600003",
+        "drval1": null,
+        "orient": null,
+        "trafic": null,
+        "restrn": "2,12,27",
+        "status": null,
+        "objnam": null,
+        "nobjnm": null,
+        "inform": null,
+        "ninfom": null
+      }
+    }
+  ],
+  "totalFeatures": 3,
+  "numberMatched": 3,
+  "numberReturned": 3,
+  "timeStamp": "2026-08-08T18:27:06.493Z",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::4326"
+    }
+  },
+  "marine_meta": {
+    "source": "Shom",
+    "type_name": "REGLEMENTATION_NAVIGATION_BDD_WFS:fairwy_polygon",
+    "generated_at": "2026-08-08T18:27:06+00:00",
+    "license": "Licence Ouverte 2.0"
+  }
+}

@@ -1,6 +1,60 @@
 {
-  "generated_at": null,
-  "area": {"bbox": [6.8, 43.45, 7.22, 43.68], "label": "Cannes · Antibes · Îles de Lérins"},
-  "sources": [],
-  "cacem": {"ok": false, "note": "Awaiting first weekly CACEM sync"}
+  "generated_at": "2026-08-08T18:27:22+00:00",
+  "area": {
+    "bbox": [
+      6.8,
+      43.45,
+      7.22,
+      43.68
+    ],
+    "label": "Cannes · Antibes · Îles de Lérins"
+  },
+  "sources": [
+    {
+      "source": "AVURNAV",
+      "ok": true,
+      "count": 0,
+      "updated_at": "2026-08-08T18:27:03+00:00"
+    },
+    {
+      "source": "SHOM achare_polygon",
+      "ok": true,
+      "count": 13,
+      "updated_at": "2026-08-08T18:27:04+00:00"
+    },
+    {
+      "source": "SHOM resare_polygon",
+      "ok": true,
+      "count": 43,
+      "updated_at": "2026-08-08T18:27:06+00:00"
+    },
+    {
+      "source": "SHOM fairwy_polygon",
+      "ok": true,
+      "count": 3,
+      "updated_at": "2026-08-08T18:27:06+00:00"
+    },
+    {
+      "source": "SHOM natures_fond_g_2016",
+      "ok": false,
+      "error": "GET failed after 3 attempts: https://services.data.shom.fr/INSPIRE/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=NDF_BDD_WLD_WGS84G_WFS%3Anatures_fond_g_2016&srsName=EPSG%3A4326&bbox=6.8%2C43.45%2C7.22%2C43.68%2CEPSG%3A4326&outputFormat=application%2Fjson: HTTP Error 401: Unauthorized",
+      "updated_at": "2026-08-08T18:27:10+00:00"
+    },
+    {
+      "source": "Sentinel-2 optique",
+      "ok": true,
+      "count": 8,
+      "updated_at": "2026-08-08T18:27:14+00:00"
+    },
+    {
+      "source": "Sentinel-1 radar",
+      "ok": true,
+      "count": 8,
+      "updated_at": "2026-08-08T18:27:21+00:00"
+    }
+  ],
+  "cacem": {
+    "ok": false,
+    "note": "Awaiting first weekly CACEM sync"
+  }
 }
