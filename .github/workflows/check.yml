@@ -1,0 +1,55 @@
+name: Validate PWA
+
+on:
+  pull_request:
+  push:
+    branches: [agent/marine-mvp]
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check JavaScript syntax
+        run: |
+          node --check app.js
+          node --check sw.js
+      - name: Validate PWA files and local references
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import json, re, sys
+
+          required = [
+              'index.html', 'app.js', 'styles.css', 'sw.js',
+              'manifest.webmanifest', 'assets/icon.svg'
+          ]
+          missing = [p for p in required if not Path(p).exists()]
+          if missing:
+              raise SystemExit(f'Missing required files: {missing}')
+
+          manifest = json.loads(Path('manifest.webmanifest').read_text())
+          for icon in manifest.get('icons', []):
+              path = icon['src'].removeprefix('./')
+              if not Path(path).exists():
+                  raise SystemExit(f'Missing manifest icon: {path}')
+
+          html = Path('index.html').read_text()
+          refs = re.findall(r'(?:href|src)="(\./[^\"]+)"', html)
+          for ref in refs:
+              path = ref.removeprefix('./')
+              if not Path(path).exists():
+                  raise SystemExit(f'Missing local HTML reference: {path}')
+
+          sw = Path('sw.js').read_text()
+          for ref in re.findall(r"'\./([^']+)'", sw):
+              if ref == '' or ref.endswith('/'):
+                  continue
+              if not Path(ref).exists():
+                  raise SystemExit(f'Missing service-worker asset: {ref}')
+
+          print('PWA validation OK')
+          PY
