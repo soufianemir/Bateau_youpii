@@ -1,6 +1,6 @@
 {
   "source": "Copernicus Data Space STAC",
-  "generated_at": "2026-08-09T13:17:15+00:00",
+  "generated_at": "2026-08-09T19:03:00+00:00",
   "observations": [
     {
       "sensor": "Sentinel-2 optique",
@@ -14,13 +14,13 @@
     },
     {
       "sensor": "Sentinel-1 radar",
-      "id": "S1C_IW_GRDH_1SDV_20260809T053509_20260809T053534_008914_011AED_433C_COG",
-      "datetime": "2026-08-09T05:35:09.686567Z",
+      "id": "S1D_IW_GRDH_1SDV_20260809T173021_20260809T173046_004052_00760E_A091_COG",
+      "datetime": "2026-08-09T17:30:21.157993Z",
       "cloud_cover": null,
-      "platform": "sentinel-1c",
+      "platform": "sentinel-1d",
       "constellation": "sentinel-1",
-      "thumbnail": "https://datahub.creodias.eu/odata/v1/Assets(a5101ca8-d47d-45f5-9d23-79b348efeb9b)/$value",
-      "catalog_url": "https://stac.dataspace.copernicus.eu/v1/collections/sentinel-1-grd/items/S1C_IW_GRDH_1SDV_20260809T053509_20260809T053534_008914_011AED_433C_COG"
+      "thumbnail": "https://datahub.creodias.eu/odata/v1/Assets(3f41f26b-13ff-4e89-8929-048a194abdb9)/$value",
+      "catalog_url": "https://stac.dataspace.copernicus.eu/v1/collections/sentinel-1-grd/items/S1D_IW_GRDH_1SDV_20260809T173021_20260809T173046_004052_00760E_A091_COG"
     }
   ],
   "sentinel3_collections_available": []
