@@ -66379,7 +66379,7 @@
   "totalFeatures": 43,
   "numberMatched": 43,
   "numberReturned": 43,
-  "timeStamp": "2026-08-12T13:49:45.714Z",
+  "timeStamp": "2026-08-12T19:28:27.409Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -66389,7 +66389,7 @@
   "marine_meta": {
     "source": "Shom",
     "type_name": "REGLEMENTATION_NAVIGATION_BDD_WFS:resare_polygon",
-    "generated_at": "2026-08-12T13:49:46+00:00",
+    "generated_at": "2026-08-12T19:28:28+00:00",
     "license": "Licence Ouverte 2.0"
   }
 }
