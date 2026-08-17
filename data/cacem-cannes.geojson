@@ -447222,366 +447222,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 441,
-        "layer_name": "APB Embouchure du fleuve Var",
-        "ref_reg": "Arrêté ministériel du 28 mai 2019 portant création d'une zone de protection de biotope dénommée \"Embouchure du Var\" ",
-        "source": "OFB",
-        "type": "Arrêté ministériel",
-        "date": "2019-05-28T00:00:00",
-        "date_fin": null,
-        "resume": "Accès interdit, à l'exception des pistes sur les crêtes de digue de Cap 3000 et de l'aéroport et une partie des enrochements et plage.\nAnimaux domestiques interdits, chiens tenus en laisse.\nPêche de loisir interdite y compris depuis les rives ou le rivage à pied.\nPêche professionnelle autorisée du 1er septembre au 28 février exclusivement avec autorisation.\nChasse terrestre interdite.\nActivités nautiques, mouillage, plongée sous-marine interdites.\nSurvol à une hauteur inférieure à 500m et dans un périmètre de 100 mètres autour interdit.",
-        "facade": "MED",
-        "edition": "2026-05-10T14:33:41.624",
-        "poly_name": "Secteur interdit sur le domaine public maritime",
-        "plan": "PSCEM, PIRC",
-        "url": "https://extranet.legicem.metier.developpement-durable.gouv.fr/embouchure-du-var-a6008.html",
-        "_cacem_layer": "MED"
-      },
-      "geometry": {
-        "type": "MultiPolygon",
-        "coordinates": [
-          [
-            [
-              [
-                7.198400045502411,
-                43.650580797876785
-              ],
-              [
-                7.198407436419124,
-                43.65098111150735
-              ],
-              [
-                7.19852007,
-                43.65450936
-              ],
-              [
-                7.198473643409498,
-                43.65456707542977
-              ],
-              [
-                7.19849653,
-                43.65580668
-              ],
-              [
-                7.19864349,
-                43.65579324
-              ],
-              [
-                7.1988507,
-                43.6558653
-              ],
-              [
-                7.19901098,
-                43.65599629
-              ],
-              [
-                7.19913039,
-                43.65615267
-              ],
-              [
-                7.199130964218777,
-                43.65615347385414
-              ],
-              [
-                7.201611381851954,
-                43.656514958492416
-              ],
-              [
-                7.20160766,
-                43.65649725
-              ],
-              [
-                7.20153603,
-                43.65611442
-              ],
-              [
-                7.20142689,
-                43.65572302
-              ],
-              [
-                7.20132828,
-                43.6554142
-              ],
-              [
-                7.20117952,
-                43.65497474
-              ],
-              [
-                7.20106646,
-                43.65468716
-              ],
-              [
-                7.20095211,
-                43.65442762
-              ],
-              [
-                7.2008999,
-                43.65430975
-              ],
-              [
-                7.2008527,
-                43.65415844
-              ],
-              [
-                7.20082408,
-                43.65400181
-              ],
-              [
-                7.20080487,
-                43.6538413
-              ],
-              [
-                7.20080511,
-                43.65371249
-              ],
-              [
-                7.20083693,
-                43.65356798
-              ],
-              [
-                7.20086661,
-                43.65344965
-              ],
-              [
-                7.20097325,
-                43.65322834
-              ],
-              [
-                7.20103225,
-                43.65306844
-              ],
-              [
-                7.20105875,
-                43.65298808
-              ],
-              [
-                7.20107953,
-                43.65291605
-              ],
-              [
-                7.20116254,
-                43.65284985
-              ],
-              [
-                7.20124969,
-                43.65279959
-              ],
-              [
-                7.20131668,
-                43.65276902
-              ],
-              [
-                7.20138985,
-                43.65271578
-              ],
-              [
-                7.20135837,
-                43.65269267
-              ],
-              [
-                7.20135964,
-                43.65265922
-              ],
-              [
-                7.20140816,
-                43.65264572
-              ],
-              [
-                7.20142905,
-                43.65265653
-              ],
-              [
-                7.20151038,
-                43.65258229
-              ],
-              [
-                7.20138603,
-                43.65251142
-              ],
-              [
-                7.20135879,
-                43.65248005
-              ],
-              [
-                7.20140042,
-                43.65243868
-              ],
-              [
-                7.20148992,
-                43.65244064
-              ],
-              [
-                7.20156982,
-                43.65247904
-              ],
-              [
-                7.20168221,
-                43.65255484
-              ],
-              [
-                7.20221265,
-                43.65217305
-              ],
-              [
-                7.20234151,
-                43.65212305
-              ],
-              [
-                7.20234871,
-                43.6520687
-              ],
-              [
-                7.20315794,
-                43.65147866
-              ],
-              [
-                7.20322194,
-                43.65151861
-              ],
-              [
-                7.20361096,
-                43.65122418
-              ],
-              [
-                7.20349202,
-                43.65112511
-              ],
-              [
-                7.20347905,
-                43.65104993
-              ],
-              [
-                7.20352456,
-                43.65085814
-              ],
-              [
-                7.20355849,
-                43.65066124
-              ],
-              [
-                7.2035048,
-                43.65050289
-              ],
-              [
-                7.20349586,
-                43.65049363
-              ],
-              [
-                7.198400045502411,
-                43.650580797876785
-              ]
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 5907,
-        "layer_name": "ZMEL",
-        "ref_reg": "Arrêté interpréfectoral n°176-2025 du 11 juillet 2025 approuvant la convention autorisant une zone de mouillages et d'équipements légers constituée de six secteurs, située dans l'anse du Croûton, dans les eaux intérieures maritimes bordant le littoral de la commune d'Antibes",
-        "source": "Arrêté",
-        "type": "Arrêté inter-préfectoral",
-        "date": "2025-07-11T00:00:00",
-        "date_fin": null,
-        "resume": "Secteur 4 : 13 dispositifs d’amarrage. Installation du 16 avril au 15 octobre, 9 dispositifs d’amarrage restent déployés du 16 octobre au 14 avril à titre expérimental. Mouillage à l’ancre interdit. La pêche est interdite. Les travaux de carénage sont interdits. ",
-        "facade": "MED",
-        "edition": null,
-        "poly_name": "Secteur 4",
-        "plan": "PSCEM",
-        "url": "https://extranet.legicem.metier.developpement-durable.gouv.fr/zmel-antibes-a4394.html?error=login_required&state=33fdeaafcac3b9c294e0e7660fde442d#Anse-du-Crouton",
-        "_cacem_layer": "MED"
-      },
-      "geometry": {
-        "type": "MultiPolygon",
-        "coordinates": [
-          [
-            [
-              [
-                7.11945,
-                43.55405
-              ],
-              [
-                7.117816666666666,
-                43.55406666666666
-              ],
-              [
-                7.11475,
-                43.55368333333333
-              ],
-              [
-                7.114866666666667,
-                43.55285
-              ],
-              [
-                7.119466666666666,
-                43.55218333333333
-              ],
-              [
-                7.11955,
-                43.553283333333326
-              ],
-              [
-                7.11945,
-                43.55405
-              ]
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 5906,
-        "layer_name": "ZMEL",
-        "ref_reg": "Arrêté interpréfectoral n°176-2025 du 11 juillet 2025 approuvant la convention autorisant une zone de mouillages et d'équipements légers constituée de six secteurs, située dans l'anse du Croûton, dans les eaux intérieures maritimes bordant le littoral de la commune d'Antibes",
-        "source": "Arrêté",
-        "type": "Arrêté inter-préfectoral",
-        "date": "2025-07-11T00:00:00",
-        "date_fin": null,
-        "resume": "Secteur 6 : 6 dispositifs d’amarrage. Installation du 16 avril au 15 octobre. Mouillage à l’ancre interdit. La pêche est interdite. Les travaux de carénage sont interdits",
-        "facade": "MED",
-        "edition": null,
-        "poly_name": "Secteur 6",
-        "plan": "PSCEM",
-        "url": "https://extranet.legicem.metier.developpement-durable.gouv.fr/zmel-antibes-a4394.html?error=login_required&state=33fdeaafcac3b9c294e0e7660fde442d#Anse-du-Crouton",
-        "_cacem_layer": "MED"
-      },
-      "geometry": {
-        "type": "MultiPolygon",
-        "coordinates": [
-          [
-            [
-              [
-                7.115216666666666,
-                43.55218333333333
-              ],
-              [
-                7.116683333333333,
-                43.55235
-              ],
-              [
-                7.11765,
-                43.55065
-              ],
-              [
-                7.11605,
-                43.55018333333334
-              ],
-              [
-                7.115216666666666,
-                43.55218333333333
-              ]
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": 6617,
         "layer_name": "Dérogation posidonie NaturDive",
         "ref_reg": "Arrêté préfectoral du 23 juillet 2026 portant dérogation à la réglementation relative aux espèces protégées au titre des art. L. 411-1 et 2 du code de l'environnement au bénéfice de l'association NaturDive pour procéder à la récolte, le stockage temporaire, la manipulation et le suivi de fragments de Posidonia oceanica récupérés en épave pour les années 2026 à 2033 sur deux stations différentes situées sur les communes d'Antibes et de Théoules-sur-Mer",
@@ -447591,7 +447231,7 @@
         "date_fin": "2033-12-31T00:00:00",
         "resume": "Bénéficiaire : association NaturDive\n\nObjet de l’autorisation : le bénéficiaire est autorisé à prélever manuellement des fragments de posidonie en épave et les replanter et à effectuer un suivi scientifique des sites.\n\nObjectif : Le projet PRIME a pour objectif de restaurer les herbiers de Posidonia oceanica dégradés par l’activité des anciennes fermes aquacoles.",
         "facade": "MED",
-        "edition": "2026-08-06T14:08:59.454",
+        "edition": "2026-08-10T12:54:33.465",
         "poly_name": "Sites de prélevement de Théoule-sur-Mer - zone de la Figueirette",
         "plan": "PSCEM",
         "url": "https://extranet.legicem.metier.developpement-durable.gouv.fr/recolte-posidonie-association-naturdive-a6096.html",
@@ -619776,6 +619416,54 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 5906,
+        "layer_name": "ZMEL",
+        "ref_reg": "Arrêté interpréfectoral n°176-2025 du 11 juillet 2025 approuvant la convention autorisant une zone de mouillages et d'équipements légers constituée de six secteurs, située dans l'anse du Croûton, dans les eaux intérieures maritimes bordant le littoral de la commune d'Antibes",
+        "source": "Arrêté",
+        "type": "Arrêté inter-préfectoral",
+        "date": "2025-07-11T00:00:00",
+        "date_fin": null,
+        "resume": "Secteur 6 : 6 dispositifs d’amarrage. Installation du 16 avril au 15 octobre. Mouillage à l’ancre interdit. La pêche est interdite. Les travaux de carénage sont interdits",
+        "facade": "MED",
+        "edition": null,
+        "poly_name": "Secteur 6",
+        "plan": "PSCEM",
+        "url": "https://extranet.legicem.metier.developpement-durable.gouv.fr/zmel-antibes-a4394.html?error=login_required&state=33fdeaafcac3b9c294e0e7660fde442d#Anse-du-Crouton",
+        "_cacem_layer": "MED"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                7.115216666666666,
+                43.55218333333333
+              ],
+              [
+                7.116683333333333,
+                43.55235
+              ],
+              [
+                7.11765,
+                43.55065
+              ],
+              [
+                7.11605,
+                43.55018333333334
+              ],
+              [
+                7.115216666666666,
+                43.55218333333333
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 5908,
         "layer_name": "ZMEL",
         "ref_reg": "Arrêté interpréfectoral n°176-2025 du 11 juillet 2025 approuvant la convention autorisant une zone de mouillages et d'équipements légers constituée de six secteurs, située dans l'anse du Croûton, dans les eaux intérieures maritimes bordant le littoral de la commune d'Antibes",
@@ -619820,6 +619508,62 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 5907,
+        "layer_name": "ZMEL",
+        "ref_reg": "Arrêté interpréfectoral n°176-2025 du 11 juillet 2025 approuvant la convention autorisant une zone de mouillages et d'équipements légers constituée de six secteurs, située dans l'anse du Croûton, dans les eaux intérieures maritimes bordant le littoral de la commune d'Antibes",
+        "source": "Arrêté",
+        "type": "Arrêté inter-préfectoral",
+        "date": "2025-07-11T00:00:00",
+        "date_fin": null,
+        "resume": "Secteur 4 : 13 dispositifs d’amarrage. Installation du 16 avril au 15 octobre, 9 dispositifs d’amarrage restent déployés du 16 octobre au 14 avril à titre expérimental. Mouillage à l’ancre interdit. La pêche est interdite. Les travaux de carénage sont interdits. ",
+        "facade": "MED",
+        "edition": null,
+        "poly_name": "Secteur 4",
+        "plan": "PSCEM",
+        "url": "https://extranet.legicem.metier.developpement-durable.gouv.fr/zmel-antibes-a4394.html?error=login_required&state=33fdeaafcac3b9c294e0e7660fde442d#Anse-du-Crouton",
+        "_cacem_layer": "MED"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                7.11945,
+                43.55405
+              ],
+              [
+                7.117816666666666,
+                43.55406666666666
+              ],
+              [
+                7.11475,
+                43.55368333333333
+              ],
+              [
+                7.114866666666667,
+                43.55285
+              ],
+              [
+                7.119466666666666,
+                43.55218333333333
+              ],
+              [
+                7.11955,
+                43.553283333333326
+              ],
+              [
+                7.11945,
+                43.55405
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 6616,
         "layer_name": "Dérogation posidonie NaturDive",
         "ref_reg": "Arrêté préfectoral du 23 juillet 2026 portant dérogation à la réglementation relative aux espèces protégées au titre des art. L. 411-1 et 2 du code de l'environnement au bénéfice de l'association NaturDive pour procéder à la récolte, le stockage temporaire, la manipulation et le suivi de fragments de Posidonia oceanica récupérés en épave pour les années 2026 à 2033 sur deux stations différentes situées sur les communes d'Antibes et de Théoules-sur-Mer",
@@ -619829,7 +619573,7 @@
         "date_fin": "2033-12-31T00:00:00",
         "resume": "Bénéficiaire : association NaturDive\n\nObjet de l’autorisation : le bénéficiaire est autorisé à prélever manuellement des fragments de posidonie en épave et les replanter et à effectuer un suivi scientifique des sites\n\nObjectif : Le projet PRIME a pour objectif de restaurer les herbiers de Posidonia oceanica dégradés par l’activité des anciennes fermes aquacoles.",
         "facade": "MED",
-        "edition": "2026-08-06T14:09:36.279",
+        "edition": "2026-08-10T12:54:52.047",
         "poly_name": "Site de prélèvement d'Antibes - zone du Croûton",
         "plan": "PSCEM",
         "url": "https://extranet.legicem.metier.developpement-durable.gouv.fr/recolte-posidonie-association-naturdive-a6096.html",
@@ -620011,6 +619755,262 @@
               [
                 7.118483333333333,
                 43.558083333333336
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 441,
+        "layer_name": "APB Embouchure du fleuve Var",
+        "ref_reg": "Arrêté ministériel du 28 mai 2019 portant création d'une zone de protection de biotope dénommée \"Embouchure du Var\" ",
+        "source": "OFB",
+        "type": "Arrêté ministériel",
+        "date": "2019-05-28T00:00:00",
+        "date_fin": null,
+        "resume": "Accès interdit, à l'exception des pistes sur les crêtes de digue de Cap 3000 et de l'aéroport et une partie des enrochements et plage.\nAnimaux domestiques interdits, chiens tenus en laisse.\nPêche de loisir interdite y compris depuis les rives ou le rivage à pied.\nPêche professionnelle autorisée du 1er septembre au 28 février exclusivement avec autorisation.\nChasse terrestre interdite.\nActivités nautiques, mouillage, plongée sous-marine interdites.\nSurvol à une hauteur inférieure à 500m et dans un périmètre de 100 mètres autour interdit.",
+        "facade": "MED",
+        "edition": "2026-05-10T14:33:41.624",
+        "poly_name": "Secteur interdit sur le domaine public maritime",
+        "plan": "PSCEM, PIRC",
+        "url": "https://extranet.legicem.metier.developpement-durable.gouv.fr/embouchure-du-var-a6008.html",
+        "_cacem_layer": "MED"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                7.198400045502411,
+                43.650580797876785
+              ],
+              [
+                7.198407436419124,
+                43.65098111150735
+              ],
+              [
+                7.19852007,
+                43.65450936
+              ],
+              [
+                7.198473643409498,
+                43.65456707542977
+              ],
+              [
+                7.19849653,
+                43.65580668
+              ],
+              [
+                7.19864349,
+                43.65579324
+              ],
+              [
+                7.1988507,
+                43.6558653
+              ],
+              [
+                7.19901098,
+                43.65599629
+              ],
+              [
+                7.19913039,
+                43.65615267
+              ],
+              [
+                7.199130964218777,
+                43.65615347385414
+              ],
+              [
+                7.201611381851954,
+                43.656514958492416
+              ],
+              [
+                7.20160766,
+                43.65649725
+              ],
+              [
+                7.20153603,
+                43.65611442
+              ],
+              [
+                7.20142689,
+                43.65572302
+              ],
+              [
+                7.20132828,
+                43.6554142
+              ],
+              [
+                7.20117952,
+                43.65497474
+              ],
+              [
+                7.20106646,
+                43.65468716
+              ],
+              [
+                7.20095211,
+                43.65442762
+              ],
+              [
+                7.2008999,
+                43.65430975
+              ],
+              [
+                7.2008527,
+                43.65415844
+              ],
+              [
+                7.20082408,
+                43.65400181
+              ],
+              [
+                7.20080487,
+                43.6538413
+              ],
+              [
+                7.20080511,
+                43.65371249
+              ],
+              [
+                7.20083693,
+                43.65356798
+              ],
+              [
+                7.20086661,
+                43.65344965
+              ],
+              [
+                7.20097325,
+                43.65322834
+              ],
+              [
+                7.20103225,
+                43.65306844
+              ],
+              [
+                7.20105875,
+                43.65298808
+              ],
+              [
+                7.20107953,
+                43.65291605
+              ],
+              [
+                7.20116254,
+                43.65284985
+              ],
+              [
+                7.20124969,
+                43.65279959
+              ],
+              [
+                7.20131668,
+                43.65276902
+              ],
+              [
+                7.20138985,
+                43.65271578
+              ],
+              [
+                7.20135837,
+                43.65269267
+              ],
+              [
+                7.20135964,
+                43.65265922
+              ],
+              [
+                7.20140816,
+                43.65264572
+              ],
+              [
+                7.20142905,
+                43.65265653
+              ],
+              [
+                7.20151038,
+                43.65258229
+              ],
+              [
+                7.20138603,
+                43.65251142
+              ],
+              [
+                7.20135879,
+                43.65248005
+              ],
+              [
+                7.20140042,
+                43.65243868
+              ],
+              [
+                7.20148992,
+                43.65244064
+              ],
+              [
+                7.20156982,
+                43.65247904
+              ],
+              [
+                7.20168221,
+                43.65255484
+              ],
+              [
+                7.20221265,
+                43.65217305
+              ],
+              [
+                7.20234151,
+                43.65212305
+              ],
+              [
+                7.20234871,
+                43.6520687
+              ],
+              [
+                7.20315794,
+                43.65147866
+              ],
+              [
+                7.20322194,
+                43.65151861
+              ],
+              [
+                7.20361096,
+                43.65122418
+              ],
+              [
+                7.20349202,
+                43.65112511
+              ],
+              [
+                7.20347905,
+                43.65104993
+              ],
+              [
+                7.20352456,
+                43.65085814
+              ],
+              [
+                7.20355849,
+                43.65066124
+              ],
+              [
+                7.2035048,
+                43.65050289
+              ],
+              [
+                7.20349586,
+                43.65049363
+              ],
+              [
+                7.198400045502411,
+                43.650580797876785
               ]
             ]
           ]
@@ -620350,7 +620350,7 @@
     "source": "CACEM / Ministère de la Transition écologique",
     "source_url": "https://www.data.gouv.fr/datasets/zones-reglementaires-cacem",
     "resource_url": "https://www.data.gouv.fr/api/1/datasets/r/dd48b545-a1d1-4710-9e56-415b895f5336",
-    "generated_at": "2026-08-10T05:08:04+00:00",
+    "generated_at": "2026-08-17T04:21:47+00:00",
     "license": "Licence Ouverte 2.0",
     "warning": "Les tracés CACEM sont une interprétation. Seuls les textes réglementaires font foi.",
     "layers": {
