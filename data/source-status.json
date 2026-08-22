@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T01:52:14+00:00",
+  "generated_at": "2026-08-22T07:01:22+00:00",
   "area": {
     "bbox": [
       6.8,
@@ -14,44 +14,44 @@
       "source": "AVURNAV",
       "ok": true,
       "count": 0,
-      "updated_at": "2026-08-22T01:52:02+00:00"
+      "updated_at": "2026-08-22T07:01:12+00:00"
     },
     {
       "source": "SHOM achare_polygon",
       "ok": true,
       "count": 13,
-      "updated_at": "2026-08-22T01:52:03+00:00"
+      "updated_at": "2026-08-22T07:01:14+00:00"
     },
     {
       "source": "SHOM resare_polygon",
       "ok": true,
       "count": 43,
-      "updated_at": "2026-08-22T01:52:05+00:00"
+      "updated_at": "2026-08-22T07:01:15+00:00"
     },
     {
       "source": "SHOM fairwy_polygon",
       "ok": true,
       "count": 3,
-      "updated_at": "2026-08-22T01:52:06+00:00"
+      "updated_at": "2026-08-22T07:01:16+00:00"
     },
     {
       "source": "Nature du fond",
       "ok": false,
       "skipped": true,
       "note": "Source automatique non branchée : le WFS SHOM testé exige une authentification. Aucune nature de fond n'est inventée.",
-      "updated_at": "2026-08-22T01:52:06+00:00"
+      "updated_at": "2026-08-22T07:01:16+00:00"
     },
     {
       "source": "Sentinel-2 optique",
       "ok": true,
       "count": 8,
-      "updated_at": "2026-08-22T01:52:11+00:00"
+      "updated_at": "2026-08-22T07:01:19+00:00"
     },
     {
       "source": "Sentinel-1 radar",
       "ok": true,
       "count": 8,
-      "updated_at": "2026-08-22T01:52:12+00:00"
+      "updated_at": "2026-08-22T07:01:20+00:00"
     }
   ],
   "cacem": {
