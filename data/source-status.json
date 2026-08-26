@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T18:59:05+00:00",
+  "generated_at": "2026-08-26T02:07:50+00:00",
   "area": {
     "bbox": [
       6.8,
@@ -14,44 +14,44 @@
       "source": "AVURNAV",
       "ok": true,
       "count": 0,
-      "updated_at": "2026-08-25T18:58:59+00:00"
+      "updated_at": "2026-08-26T01:59:55+00:00"
     },
     {
       "source": "SHOM achare_polygon",
-      "ok": true,
-      "count": 13,
-      "updated_at": "2026-08-25T18:59:00+00:00"
+      "ok": false,
+      "error": "GET failed after 3 attempts: https://services.data.shom.fr/INSPIRE/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=REGLEMENTATION_NAVIGATION_BDD_WFS%3Aachare_polygon&srsName=EPSG%3A4326&bbox=6.8%2C43.45%2C7.22%2C43.68%2CEPSG%3A4326&outputFormat=application%2Fjson: <urlopen error timed out>",
+      "updated_at": "2026-08-26T02:02:29+00:00"
     },
     {
       "source": "SHOM resare_polygon",
-      "ok": true,
-      "count": 43,
-      "updated_at": "2026-08-25T18:59:01+00:00"
+      "ok": false,
+      "error": "GET failed after 3 attempts: https://services.data.shom.fr/INSPIRE/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=REGLEMENTATION_NAVIGATION_BDD_WFS%3Aresare_polygon&srsName=EPSG%3A4326&bbox=6.8%2C43.45%2C7.22%2C43.68%2CEPSG%3A4326&outputFormat=application%2Fjson: <urlopen error timed out>",
+      "updated_at": "2026-08-26T02:05:02+00:00"
     },
     {
       "source": "SHOM fairwy_polygon",
-      "ok": true,
-      "count": 3,
-      "updated_at": "2026-08-25T18:59:01+00:00"
+      "ok": false,
+      "error": "GET failed after 3 attempts: https://services.data.shom.fr/INSPIRE/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=REGLEMENTATION_NAVIGATION_BDD_WFS%3Afairwy_polygon&srsName=EPSG%3A4326&bbox=6.8%2C43.45%2C7.22%2C43.68%2CEPSG%3A4326&outputFormat=application%2Fjson: <urlopen error timed out>",
+      "updated_at": "2026-08-26T02:07:36+00:00"
     },
     {
       "source": "Nature du fond",
       "ok": false,
       "skipped": true,
       "note": "Source automatique non branchée : le WFS SHOM testé exige une authentification. Aucune nature de fond n'est inventée.",
-      "updated_at": "2026-08-25T18:59:01+00:00"
+      "updated_at": "2026-08-26T02:07:36+00:00"
     },
     {
       "source": "Sentinel-2 optique",
-      "ok": true,
-      "count": 8,
-      "updated_at": "2026-08-25T18:59:03+00:00"
+      "ok": false,
+      "error": "GET failed after 3 attempts: https://stac.dataspace.copernicus.eu/v1/search?collections=sentinel-2-l2a&bbox=6.8%2C43.45%2C7.22%2C43.68&datetime=2026-08-12T02%3A07%3A36.456121%2B00%3A00%2F2026-08-26T02%3A07%3A36.456121%2B00%3A00&limit=8&sortby=-datetime: Expecting value: line 1 column 1 (char 0)",
+      "updated_at": "2026-08-26T02:07:41+00:00"
     },
     {
       "source": "Sentinel-1 radar",
-      "ok": true,
-      "count": 8,
-      "updated_at": "2026-08-25T18:59:04+00:00"
+      "ok": false,
+      "error": "GET failed after 3 attempts: https://stac.dataspace.copernicus.eu/v1/search?collections=sentinel-1-grd&bbox=6.8%2C43.45%2C7.22%2C43.68&datetime=2026-08-12T02%3A07%3A41.023952%2B00%3A00%2F2026-08-26T02%3A07%3A41.023952%2B00%3A00&limit=8&sortby=-datetime: Expecting value: line 1 column 1 (char 0)",
+      "updated_at": "2026-08-26T02:07:45+00:00"
     }
   ],
   "cacem": {
