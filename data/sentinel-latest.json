@@ -1,26 +1,26 @@
 {
   "source": "Copernicus Data Space STAC",
-  "generated_at": "2026-08-28T11:26:57+00:00",
+  "generated_at": "2026-08-28T22:23:28+00:00",
   "observations": [
     {
       "sensor": "Sentinel-2 optique",
-      "id": "S2B_MSIL2A_20260826T103019_N0512_R108_T32TLP_20260826T142512",
-      "datetime": "2026-08-26T10:30:19.024000Z",
-      "cloud_cover": 34.11,
-      "platform": "sentinel-2b",
+      "id": "S2C_MSIL2A_20260828T101601_N0512_R065_T32TLP_20260828T153211",
+      "datetime": "2026-08-28T10:16:01.025000Z",
+      "cloud_cover": 97.11,
+      "platform": "sentinel-2c",
       "constellation": "sentinel-2",
-      "thumbnail": "https://datahub.creodias.eu/odata/v1/Assets(e391df02-75ea-4feb-9773-5ffc3db4c21e)/$value",
-      "catalog_url": "https://stac.dataspace.copernicus.eu/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20260826T103019_N0512_R108_T32TLP_20260826T142512"
+      "thumbnail": "https://datahub.creodias.eu/odata/v1/Assets(551650e4-39c7-4500-bd74-d90f1f23aa7d)/$value",
+      "catalog_url": "https://stac.dataspace.copernicus.eu/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20260828T101601_N0512_R065_T32TLP_20260828T153211"
     },
     {
       "sensor": "Sentinel-1 radar",
-      "id": "S1C_IW_GRDH_1SDV_20260827T173009_20260827T173034_009184_0123EF_5011_COG",
-      "datetime": "2026-08-27T17:30:09.095995Z",
+      "id": "S1D_IW_GRDH_1SDV_20260828T172221_20260828T172246_004329_007FC0_05D3_COG",
+      "datetime": "2026-08-28T17:22:21.676979Z",
       "cloud_cover": null,
-      "platform": "sentinel-1c",
+      "platform": "sentinel-1d",
       "constellation": "sentinel-1",
-      "thumbnail": "https://datahub.creodias.eu/odata/v1/Assets(5899b8a8-80cd-4679-94e8-699cf5965a28)/$value",
-      "catalog_url": "https://stac.dataspace.copernicus.eu/v1/collections/sentinel-1-grd/items/S1C_IW_GRDH_1SDV_20260827T173009_20260827T173034_009184_0123EF_5011_COG"
+      "thumbnail": "https://datahub.creodias.eu/odata/v1/Assets(71a8f8b7-ae8e-481d-938c-bcf9d46f56ed)/$value",
+      "catalog_url": "https://stac.dataspace.copernicus.eu/v1/collections/sentinel-1-grd/items/S1D_IW_GRDH_1SDV_20260828T172221_20260828T172246_004329_007FC0_05D3_COG"
     }
   ],
   "sentinel3_collections_available": []
