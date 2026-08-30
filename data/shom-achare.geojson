@@ -10077,7 +10077,7 @@
   "totalFeatures": 13,
   "numberMatched": 13,
   "numberReturned": 13,
-  "timeStamp": "2026-08-30T11:57:04.872Z",
+  "timeStamp": "2026-08-30T16:43:05.689Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -10087,7 +10087,7 @@
   "marine_meta": {
     "source": "Shom",
     "type_name": "REGLEMENTATION_NAVIGATION_BDD_WFS:achare_polygon",
-    "generated_at": "2026-08-30T11:57:05+00:00",
+    "generated_at": "2026-08-30T16:43:06+00:00",
     "license": "Licence Ouverte 2.0"
   }
 }

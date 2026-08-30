@@ -265,7 +265,7 @@
   "totalFeatures": 3,
   "numberMatched": 3,
   "numberReturned": 3,
-  "timeStamp": "2026-08-30T11:57:07.214Z",
+  "timeStamp": "2026-08-30T16:43:08.975Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -275,7 +275,7 @@
   "marine_meta": {
     "source": "Shom",
     "type_name": "REGLEMENTATION_NAVIGATION_BDD_WFS:fairwy_polygon",
-    "generated_at": "2026-08-30T11:57:07+00:00",
+    "generated_at": "2026-08-30T16:43:09+00:00",
     "license": "Licence Ouverte 2.0"
   }
 }
