@@ -524860,19 +524860,19 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 226,
-        "layer_name": "Plongée sous-marine",
-        "ref_reg": "Arrête préfectoral n°222-2020 portant interdiction de la plongée sous-marine dans le cantonnement de pêche de la Péquerolle au droit de la commune d'Antibes",
+        "id": 3514,
+        "layer_name": "Cantonnement",
+        "ref_reg": "Arrêté ministériel du 23 octobre 2020 portant création du cantonnement de pêche de la Péquerolle aux abords de la pointe Bacon (commune d'Antibes)",
         "source": "Arrêté",
         "type": "Arrêté inter-préfectoral",
         "date": "2020-11-06T00:00:00",
         "date_fin": null,
-        "resume": "Plongée sous-marine interdite",
+        "resume": "La pêche sous toutes ses formes est interdite",
         "facade": "MED",
         "edition": null,
         "poly_name": null,
-        "plan": "PSCEM",
-        "url": "http://extranet.legicem.metier.developpement-durable.gouv.fr/antibes-a4150.html",
+        "plan": "PIRC",
+        "url": "http://extranet.legicem.metier.developpement-durable.gouv.fr/cantonnement-antibes-a4714.html",
         "_cacem_layer": "MED"
       },
       "geometry": {
@@ -524908,19 +524908,19 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 3514,
-        "layer_name": "Cantonnement",
-        "ref_reg": "Arrêté ministériel du 23 octobre 2020 portant création du cantonnement de pêche de la Péquerolle aux abords de la pointe Bacon (commune d'Antibes)",
+        "id": 226,
+        "layer_name": "Plongée sous-marine",
+        "ref_reg": "Arrête préfectoral n°222-2020 portant interdiction de la plongée sous-marine dans le cantonnement de pêche de la Péquerolle au droit de la commune d'Antibes",
         "source": "Arrêté",
         "type": "Arrêté inter-préfectoral",
         "date": "2020-11-06T00:00:00",
         "date_fin": null,
-        "resume": "La pêche sous toutes ses formes est interdite",
+        "resume": "Plongée sous-marine interdite",
         "facade": "MED",
         "edition": null,
         "poly_name": null,
-        "plan": "PIRC",
-        "url": "http://extranet.legicem.metier.developpement-durable.gouv.fr/cantonnement-antibes-a4714.html",
+        "plan": "PSCEM",
+        "url": "http://extranet.legicem.metier.developpement-durable.gouv.fr/antibes-a4150.html",
         "_cacem_layer": "MED"
       },
       "geometry": {
@@ -525642,7 +525642,7 @@
     "source": "CACEM / Ministère de la Transition écologique",
     "source_url": "https://www.data.gouv.fr/datasets/zones-reglementaires-cacem",
     "resource_url": "https://www.data.gouv.fr/api/1/datasets/r/dd48b545-a1d1-4710-9e56-415b895f5336",
-    "generated_at": "2026-10-05T10:48:18+00:00",
+    "generated_at": "2026-10-12T11:21:31+00:00",
     "license": "Licence Ouverte 2.0",
     "warning": "Les tracés CACEM sont une interprétation. Seuls les textes réglementaires font foi.",
     "layers": {
