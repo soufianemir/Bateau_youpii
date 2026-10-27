@@ -1,16 +1,16 @@
 {
   "source": "Copernicus Data Space STAC",
-  "generated_at": "2026-10-27T12:17:02+00:00",
+  "generated_at": "2026-10-27T18:05:36+00:00",
   "observations": [
     {
       "sensor": "Sentinel-2 optique",
-      "id": "S2B_MSIL2A_20261025T103119_N0513_R108_T32TLP_20261025T142710",
-      "datetime": "2026-10-25T10:31:19.024000Z",
-      "cloud_cover": 5.31,
-      "platform": "sentinel-2b",
+      "id": "S2C_MSIL2A_20261027T102121_N0513_R065_T32TLP_20261027T153610",
+      "datetime": "2026-10-27T10:21:21.025000Z",
+      "cloud_cover": 2.47,
+      "platform": "sentinel-2c",
       "constellation": "sentinel-2",
-      "thumbnail": "https://datahub.creodias.eu/odata/v1/Assets(0d43d4ac-22d3-42bf-9e54-1f084a6d38d9)/$value",
-      "catalog_url": "https://stac.dataspace.copernicus.eu/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20261025T103119_N0513_R108_T32TLP_20261025T142710"
+      "thumbnail": "https://datahub.creodias.eu/odata/v1/Assets(bbfff14c-9195-4715-bc61-887035b88339)/$value",
+      "catalog_url": "https://stac.dataspace.copernicus.eu/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20261027T102121_N0513_R065_T32TLP_20261027T153610"
     },
     {
       "sensor": "Sentinel-1 radar",
