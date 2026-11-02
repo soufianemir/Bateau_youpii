@@ -334494,19 +334494,19 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 1716,
-        "layer_name": "Zone interdite",
-        "ref_reg": "Arrêté préfectoral 228/2022 réglementant le mouillage, la baignade et la plongée sous-marine dans le cercle d'évitage des coffres installés aux abords de l'île Sainte-Marguerite, fixant les obligations et encadrant les activités durant l'escale du navire au coffre (commune de Cannes – Alpes-Maritimes)",
-        "source": "Arrêté préfectoral",
-        "type": "Arrêté préfectoral",
-        "date": null,
-        "date_fin": null,
-        "resume": "Zone interdite mouillage, baignade, plongée sous-marine dans le cercle d'évitage des coffres",
+        "id": 648,
+        "layer_name": "ZMEL",
+        "ref_reg": "Arrêté inter-préfectoral du 29 décembre 2020 portant autorisation d'occupation temporaire du domaine public maritime pour une zone de mouillages et d'équipements légers à l'embouchure du fleuve du Béal dans les eaux intérieures maritimes bordant le littoral de la commune de Cannes",
+        "source": "Arrêté",
+        "type": "Arrêté inter-préfectoral",
+        "date": "2020-01-01T00:00:00",
+        "date_fin": "2031-12-31T00:00:00",
+        "resume": "Cannes Béal - 1er avril au 31 octobre",
         "facade": "MED",
         "edition": null,
         "poly_name": null,
         "plan": "PSCEM",
-        "url": "http://extranet.legicem.metier.developpement-durable.gouv.fr/cannes-a4830.html?id_rub=2056",
+        "url": "http://extranet.legicem.metier.developpement-durable.gouv.fr/zmel-cannes-fleuve-du-beal-a4189.html?id_rub=2134",
         "_cacem_layer": "MED"
       },
       "geometry": {
@@ -334515,104 +334515,100 @@
           [
             [
               [
-                7.061500635581412,
-                43.513760206637116
+                6.952783333333334,
+                43.53573333333333
               ],
               [
-                7.061483746610503,
-                43.51367643342237
+                6.95285,
+                43.535783333333335
               ],
               [
-                7.061445587817217,
-                43.513596447245746
+                6.95287411,
+                43.53576242
               ],
               [
-                7.061387511070562,
-                43.51352308163508
+                6.95289129,
+                43.53581404
               ],
               [
-                7.06130451968208,
-                43.51345408017982
+                6.95298418,
+                43.53586831
               ],
               [
-                7.061099330789612,
-                43.513361838764936
+                6.9534273,
+                43.53624313
               ],
               [
-                7.060861258929278,
-                43.51333376564842
+                6.95349035,
+                43.5362057
               ],
               [
-                7.06062654762199,
-                43.513374134611745
+                6.95354686,
+                43.53623517
               ],
               [
-                7.060430928818775,
-                43.5134767999823
+                6.95382535,
+                43.53594575
               ],
               [
-                7.060354916566282,
-                43.51354993670578
+                6.95389489,
+                43.53596663
               ],
               [
-                7.060304183455638,
-                43.51362613217666
+                6.95397874,
+                43.53581764
               ],
               [
-                7.060273966851762,
-                43.51370789661974
+                6.95403357,
+                43.53578681
               ],
               [
-                7.060265337275282,
-                43.51379233350693
+                6.954066666666667,
+                43.5358
               ],
               [
-                7.060280684827285,
-                43.513883353116285
+                6.95425,
+                43.53563333333334
               ],
               [
-                7.060321075192511,
-                43.513970216532144
+                6.95430699,
+                43.53551379
               ],
               [
-                7.060384830070263,
-                43.51404931417145
+                6.95414029,
+                43.53539465
               ],
               [
-                7.060462142158274,
-                43.51411258492916
+                6.95395247,
+                43.53532853
               ],
               [
-                7.060667332708556,
-                43.51420482759848
+                6.9536635,
+                43.53528592
               ],
               [
-                7.060905408082766,
-                43.51423290115797
+                6.95329925,
+                43.53528298
               ],
               [
-                7.061140122701613,
-                43.51419253156667
+                6.95319137,
+                43.53531664
               ],
               [
-                7.061335742674202,
-                43.514089864865014
+                6.95303519,
+                43.53540431
               ],
               [
-                7.061406651974576,
-                43.51402273925801
+                6.95271242,
+                43.53566201
               ],
               [
-                7.061462486379524,
-                43.51394053141618
+                6.95279432,
+                43.53571848
               ],
               [
-                7.06149425424467,
-                43.51385179135576
-              ],
-              [
-                7.061500635581412,
-                43.513760206637116
+                6.952783333333334,
+                43.53573333333333
               ]
             ]
           ]
@@ -334750,166 +334746,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 1717,
-        "layer_name": "Zone interdite",
-        "ref_reg": "Arrêté préfectoral 228/2022 réglementant le mouillage, la baignade et la plongée sous-marine dans le cercle d'évitage des coffres installés aux abords de l'île Sainte-Marguerite, fixant les obligations et encadrant les activités durant l'escale du navire au coffre (commune de Cannes – Alpes-Maritimes)",
-        "source": "Arrêté préfectoral",
-        "type": "Arrêté préfectoral",
-        "date": null,
-        "date_fin": null,
-        "resume": "Zone interdite mouillage, baignade, plongée sous-marine dans le cercle d'évitage des coffres",
-        "facade": "MED",
-        "edition": null,
-        "poly_name": null,
-        "plan": "PSCEM",
-        "url": "http://extranet.legicem.metier.developpement-durable.gouv.fr/cannes-a4830.html?id_rub=2056",
-        "_cacem_layer": "MED"
-      },
-      "geometry": {
-        "type": "MultiPolygon",
-        "coordinates": [
-          [
-            [
-              [
-                7.069365042782318,
-                43.521161060816176
-              ],
-              [
-                7.069324476596404,
-                43.52096000698352
-              ],
-              [
-                7.069232857867985,
-                43.52076804576756
-              ],
-              [
-                7.069093432666685,
-                43.5205919773612
-              ],
-              [
-                7.068894206958051,
-                43.52042638708073
-              ],
-              [
-                7.06867280533975,
-                43.520302547049624
-              ],
-              [
-                7.068401665729864,
-                43.520205040392625
-              ],
-              [
-                7.068131993501429,
-                43.520152281430065
-              ],
-              [
-                7.06783021704927,
-                43.52013770216382
-              ],
-              [
-                7.067530647688685,
-                43.52016795774778
-              ],
-              [
-                7.06726685440902,
-                43.52023462347646
-              ],
-              [
-                7.067005997517963,
-                43.52034599860708
-              ],
-              [
-                7.066797340528804,
-                43.520481049723635
-              ],
-              [
-                7.06661490800867,
-                43.52065658935719
-              ],
-              [
-                7.06649315318098,
-                43.52083946640523
-              ],
-              [
-                7.066420645219828,
-                43.52103570620729
-              ],
-              [
-                7.066399953230512,
-                43.521238356974806
-              ],
-              [
-                7.0664368155324,
-                43.52145680311916
-              ],
-              [
-                7.066533787726033,
-                43.521665270925034
-              ],
-              [
-                7.066686840744262,
-                43.52185509748244
-              ],
-              [
-                7.066872431902225,
-                43.52200693727956
-              ],
-              [
-                7.067113665206364,
-                43.52213969235153
-              ],
-              [
-                7.067364982685275,
-                43.5222282911928
-              ],
-              [
-                7.06765767002411,
-                43.522283763129934
-              ],
-              [
-                7.067936451612231,
-                43.52229563197179
-              ],
-              [
-                7.068213351354083,
-                43.522269277204494
-              ],
-              [
-                7.068499833330296,
-                43.52219870704055
-              ],
-              [
-                7.068741793882262,
-                43.5220972490543
-              ],
-              [
-                7.068969353944254,
-                43.52195227312568
-              ],
-              [
-                7.069139537869993,
-                43.52179115872124
-              ],
-              [
-                7.069273531737214,
-                43.52159384921897
-              ],
-              [
-                7.069349755651551,
-                43.5213808664185
-              ],
-              [
-                7.069365042782318,
-                43.521161060816176
-              ]
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": 157,
         "layer_name": "ZMEL",
         "ref_reg": "Arrêté inter-préfectoral n°170/2025 portant autorisation d'occupation temporaire du domaine public maritime pour une zone de mouillages et d'équipements légers le long du littoral de la commune de Cannes au droit de l'île Sainte-Marguerite",
@@ -334966,19 +334802,19 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 1547,
-        "layer_name": "Activités réglementées présence d'un bien culturel",
-        "ref_reg": "Arrêté préfectoral n° 105/2022 du 5 maii 2022 interdisant le mouillage, la plongée sous-marine et le dragage au Nord de l'ïle Sainte-Marguerite au droit du littoral de la commune de Cannes (Alpes-Maritimes)",
+        "id": 3535,
+        "layer_name": "Dragage",
+        "ref_reg": "Arrêté d'autorisation n°20181863 au titre de l'article L.214-3 du code de l'environnement Travaux de dragage des sédiments du Port de Mouré Rouge et le rechargement de plage de Cannes soumis à autorisation environnementale Commune de Cannes",
         "source": "Arrêté",
         "type": "Arrêté préfectoral",
         "date": null,
         "date_fin": null,
-        "resume": "Mouillage, dragage, plongée sous-marine interdits",
+        "resume": "Port de Mouré Rouge",
         "facade": "MED",
         "edition": null,
         "poly_name": null,
         "plan": "PSCEM",
-        "url": "http://extranet.legicem.metier.developpement-durable.gouv.fr/sainte-marguerite-a4668.html",
+        "url": "http://extranet.legicem.metier.developpement-durable.gouv.fr/cannes-a4413.html?id_rub=2081",
         "_cacem_layer": "MED"
       },
       "geometry": {
@@ -334987,24 +334823,192 @@
           [
             [
               [
-                7.043333333333333,
-                43.52766666666667
+                7.042264,
+                43.541893099999925
               ],
               [
-                7.045833333333333,
-                43.53
+                7.0422424,
+                43.54193759999977
               ],
               [
-                7.049166666666666,
-                43.52916666666667
+                7.042158,
+                43.54197069999981
               ],
               [
-                7.048166666666667,
-                43.525666666666666
+                7.0416024,
+                43.54181519999982
               ],
               [
-                7.043333333333333,
-                43.52766666666667
+                7.0413552,
+                43.541781199999825
+              ],
+              [
+                7.0412429,
+                43.54178429999977
+              ],
+              [
+                7.0407827,
+                43.54194189999976
+              ],
+              [
+                7.0409177,
+                43.542132099999826
+              ],
+              [
+                7.0413722,
+                43.541954599999805
+              ],
+              [
+                7.0413893,
+                43.54197949999978
+              ],
+              [
+                7.0408506,
+                43.542182699999806
+              ],
+              [
+                7.0410099,
+                43.54237309999978
+              ],
+              [
+                7.041822,
+                43.54206129999981
+              ],
+              [
+                7.0418309,
+                43.54208059999978
+              ],
+              [
+                7.0410257,
+                43.5423918999998
+              ],
+              [
+                7.0411823,
+                43.5425650999998
+              ],
+              [
+                7.0417385,
+                43.54234779999978
+              ],
+              [
+                7.041757,
+                43.54236979999981
+              ],
+              [
+                7.0412028,
+                43.542584599999806
+              ],
+              [
+                7.0413457,
+                43.542697399999795
+              ],
+              [
+                7.0414116,
+                43.542649699999814
+              ],
+              [
+                7.0415299,
+                43.5426931999998
+              ],
+              [
+                7.0414804,
+                43.54277279999979
+              ],
+              [
+                7.0417246,
+                43.542860199999794
+              ],
+              [
+                7.0417144,
+                43.54287669999981
+              ],
+              [
+                7.0420162,
+                43.54297259999981
+              ],
+              [
+                7.0424671,
+                43.542218899999824
+              ],
+              [
+                7.0424958,
+                43.5422282999998
+              ],
+              [
+                7.0420434,
+                43.54298139999981
+              ],
+              [
+                7.04228,
+                43.54305799999982
+              ],
+              [
+                7.0426082,
+                43.542511599999806
+              ],
+              [
+                7.0426339,
+                43.542520899999786
+              ],
+              [
+                7.0423058,
+                43.54306629999979
+              ],
+              [
+                7.0423981,
+                43.543096199999795
+              ],
+              [
+                7.0425148,
+                43.54310359999981
+              ],
+              [
+                7.0427314,
+                43.54274299999979
+              ],
+              [
+                7.0427601,
+                43.54275499999983
+              ],
+              [
+                7.0425463,
+                43.543105599999784
+              ],
+              [
+                7.0431119,
+                43.5431281999998
+              ],
+              [
+                7.043114,
+                43.54291959999978
+              ],
+              [
+                7.0426947,
+                43.54205039999985
+              ],
+              [
+                7.0427732,
+                43.541773499999806
+              ],
+              [
+                7.0426974,
+                43.54171599999982
+              ],
+              [
+                7.0425083,
+                43.54166889999981
+              ],
+              [
+                7.0424889,
+                43.54163989999982
+              ],
+              [
+                7.042496099999493,
+                43.541594600000685
+              ],
+              [
+                7.042264,
+                43.541893099999925
               ]
             ]
           ]
@@ -335174,19 +335178,19 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 648,
-        "layer_name": "ZMEL",
-        "ref_reg": "Arrêté inter-préfectoral du 29 décembre 2020 portant autorisation d'occupation temporaire du domaine public maritime pour une zone de mouillages et d'équipements légers à l'embouchure du fleuve du Béal dans les eaux intérieures maritimes bordant le littoral de la commune de Cannes",
+        "id": 1547,
+        "layer_name": "Activités réglementées présence d'un bien culturel",
+        "ref_reg": "Arrêté préfectoral n° 105/2022 du 5 maii 2022 interdisant le mouillage, la plongée sous-marine et le dragage au Nord de l'ïle Sainte-Marguerite au droit du littoral de la commune de Cannes (Alpes-Maritimes)",
         "source": "Arrêté",
-        "type": "Arrêté inter-préfectoral",
-        "date": "2020-01-01T00:00:00",
-        "date_fin": "2031-12-31T00:00:00",
-        "resume": "Cannes Béal - 1er avril au 31 octobre",
+        "type": "Arrêté préfectoral",
+        "date": null,
+        "date_fin": null,
+        "resume": "Mouillage, dragage, plongée sous-marine interdits",
         "facade": "MED",
         "edition": null,
         "poly_name": null,
         "plan": "PSCEM",
-        "url": "http://extranet.legicem.metier.developpement-durable.gouv.fr/zmel-cannes-fleuve-du-beal-a4189.html?id_rub=2134",
+        "url": "http://extranet.legicem.metier.developpement-durable.gouv.fr/sainte-marguerite-a4668.html",
         "_cacem_layer": "MED"
       },
       "geometry": {
@@ -335195,100 +335199,152 @@
           [
             [
               [
-                6.952783333333334,
-                43.53573333333333
+                7.043333333333333,
+                43.52766666666667
               ],
               [
-                6.95285,
-                43.535783333333335
+                7.045833333333333,
+                43.53
               ],
               [
-                6.95287411,
-                43.53576242
+                7.049166666666666,
+                43.52916666666667
               ],
               [
-                6.95289129,
-                43.53581404
+                7.048166666666667,
+                43.525666666666666
               ],
               [
-                6.95298418,
-                43.53586831
+                7.043333333333333,
+                43.52766666666667
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1716,
+        "layer_name": "Zone interdite",
+        "ref_reg": "Arrêté préfectoral 228/2022 réglementant le mouillage, la baignade et la plongée sous-marine dans le cercle d'évitage des coffres installés aux abords de l'île Sainte-Marguerite, fixant les obligations et encadrant les activités durant l'escale du navire au coffre (commune de Cannes – Alpes-Maritimes)",
+        "source": "Arrêté préfectoral",
+        "type": "Arrêté préfectoral",
+        "date": null,
+        "date_fin": null,
+        "resume": "Zone interdite mouillage, baignade, plongée sous-marine dans le cercle d'évitage des coffres",
+        "facade": "MED",
+        "edition": null,
+        "poly_name": null,
+        "plan": "PSCEM",
+        "url": "http://extranet.legicem.metier.developpement-durable.gouv.fr/cannes-a4830.html?id_rub=2056",
+        "_cacem_layer": "MED"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                7.061500635581412,
+                43.513760206637116
               ],
               [
-                6.9534273,
-                43.53624313
+                7.061483746610503,
+                43.51367643342237
               ],
               [
-                6.95349035,
-                43.5362057
+                7.061445587817217,
+                43.513596447245746
               ],
               [
-                6.95354686,
-                43.53623517
+                7.061387511070562,
+                43.51352308163508
               ],
               [
-                6.95382535,
-                43.53594575
+                7.06130451968208,
+                43.51345408017982
               ],
               [
-                6.95389489,
-                43.53596663
+                7.061099330789612,
+                43.513361838764936
               ],
               [
-                6.95397874,
-                43.53581764
+                7.060861258929278,
+                43.51333376564842
               ],
               [
-                6.95403357,
-                43.53578681
+                7.06062654762199,
+                43.513374134611745
               ],
               [
-                6.954066666666667,
-                43.5358
+                7.060430928818775,
+                43.5134767999823
               ],
               [
-                6.95425,
-                43.53563333333334
+                7.060354916566282,
+                43.51354993670578
               ],
               [
-                6.95430699,
-                43.53551379
+                7.060304183455638,
+                43.51362613217666
               ],
               [
-                6.95414029,
-                43.53539465
+                7.060273966851762,
+                43.51370789661974
               ],
               [
-                6.95395247,
-                43.53532853
+                7.060265337275282,
+                43.51379233350693
               ],
               [
-                6.9536635,
-                43.53528592
+                7.060280684827285,
+                43.513883353116285
               ],
               [
-                6.95329925,
-                43.53528298
+                7.060321075192511,
+                43.513970216532144
               ],
               [
-                6.95319137,
-                43.53531664
+                7.060384830070263,
+                43.51404931417145
               ],
               [
-                6.95303519,
-                43.53540431
+                7.060462142158274,
+                43.51411258492916
               ],
               [
-                6.95271242,
-                43.53566201
+                7.060667332708556,
+                43.51420482759848
               ],
               [
-                6.95279432,
-                43.53571848
+                7.060905408082766,
+                43.51423290115797
               ],
               [
-                6.952783333333334,
-                43.53573333333333
+                7.061140122701613,
+                43.51419253156667
+              ],
+              [
+                7.061335742674202,
+                43.514089864865014
+              ],
+              [
+                7.061406651974576,
+                43.51402273925801
+              ],
+              [
+                7.061462486379524,
+                43.51394053141618
+              ],
+              [
+                7.06149425424467,
+                43.51385179135576
+              ],
+              [
+                7.061500635581412,
+                43.513760206637116
               ]
             ]
           ]
@@ -335337,6 +335393,1174 @@
               [
                 7.06208333333333,
                 43.54745
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3534,
+        "layer_name": "Pêche",
+        "ref_reg": "Arrêté ministériel du 23 mars 1988 portant création d'une réserve sur le littoral de la commune de Vallauris",
+        "source": "Arrêté ministériel",
+        "type": "Arrêté ministériel",
+        "date": null,
+        "date_fin": null,
+        "resume": "Réserve - Pêche sous toutes ses formes interdite",
+        "facade": "MED",
+        "edition": null,
+        "poly_name": null,
+        "plan": "PIRC",
+        "url": "http://extranet.legicem.metier.developpement-durable.gouv.fr/reserve-de-peche-valauris-a4716.html?id_rub=1942",
+        "_cacem_layer": "MED"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                7.062777777777777,
+                43.54777777777778
+              ],
+              [
+                7.065555555555555,
+                43.5436111111111
+              ],
+              [
+                7.076666666666667,
+                43.547222222222196
+              ],
+              [
+                7.074166666666667,
+                43.551388888888894
+              ],
+              [
+                7.062777777777777,
+                43.54777777777778
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1717,
+        "layer_name": "Zone interdite",
+        "ref_reg": "Arrêté préfectoral 228/2022 réglementant le mouillage, la baignade et la plongée sous-marine dans le cercle d'évitage des coffres installés aux abords de l'île Sainte-Marguerite, fixant les obligations et encadrant les activités durant l'escale du navire au coffre (commune de Cannes – Alpes-Maritimes)",
+        "source": "Arrêté préfectoral",
+        "type": "Arrêté préfectoral",
+        "date": null,
+        "date_fin": null,
+        "resume": "Zone interdite mouillage, baignade, plongée sous-marine dans le cercle d'évitage des coffres",
+        "facade": "MED",
+        "edition": null,
+        "poly_name": null,
+        "plan": "PSCEM",
+        "url": "http://extranet.legicem.metier.developpement-durable.gouv.fr/cannes-a4830.html?id_rub=2056",
+        "_cacem_layer": "MED"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                7.069365042782318,
+                43.521161060816176
+              ],
+              [
+                7.069324476596404,
+                43.52096000698352
+              ],
+              [
+                7.069232857867985,
+                43.52076804576756
+              ],
+              [
+                7.069093432666685,
+                43.5205919773612
+              ],
+              [
+                7.068894206958051,
+                43.52042638708073
+              ],
+              [
+                7.06867280533975,
+                43.520302547049624
+              ],
+              [
+                7.068401665729864,
+                43.520205040392625
+              ],
+              [
+                7.068131993501429,
+                43.520152281430065
+              ],
+              [
+                7.06783021704927,
+                43.52013770216382
+              ],
+              [
+                7.067530647688685,
+                43.52016795774778
+              ],
+              [
+                7.06726685440902,
+                43.52023462347646
+              ],
+              [
+                7.067005997517963,
+                43.52034599860708
+              ],
+              [
+                7.066797340528804,
+                43.520481049723635
+              ],
+              [
+                7.06661490800867,
+                43.52065658935719
+              ],
+              [
+                7.06649315318098,
+                43.52083946640523
+              ],
+              [
+                7.066420645219828,
+                43.52103570620729
+              ],
+              [
+                7.066399953230512,
+                43.521238356974806
+              ],
+              [
+                7.0664368155324,
+                43.52145680311916
+              ],
+              [
+                7.066533787726033,
+                43.521665270925034
+              ],
+              [
+                7.066686840744262,
+                43.52185509748244
+              ],
+              [
+                7.066872431902225,
+                43.52200693727956
+              ],
+              [
+                7.067113665206364,
+                43.52213969235153
+              ],
+              [
+                7.067364982685275,
+                43.5222282911928
+              ],
+              [
+                7.06765767002411,
+                43.522283763129934
+              ],
+              [
+                7.067936451612231,
+                43.52229563197179
+              ],
+              [
+                7.068213351354083,
+                43.522269277204494
+              ],
+              [
+                7.068499833330296,
+                43.52219870704055
+              ],
+              [
+                7.068741793882262,
+                43.5220972490543
+              ],
+              [
+                7.068969353944254,
+                43.52195227312568
+              ],
+              [
+                7.069139537869993,
+                43.52179115872124
+              ],
+              [
+                7.069273531737214,
+                43.52159384921897
+              ],
+              [
+                7.069349755651551,
+                43.5213808664185
+              ],
+              [
+                7.069365042782318,
+                43.521161060816176
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1712,
+        "layer_name": "Zone interdite autour des coffres",
+        "ref_reg": "Arrêté préfectoral N°227/2022 réglementant le mouillage, la baignade et la plongée sous-marine dans le cercle d'évitage des coffres installés dans la baie de Golfe Juan, fixant les obligations et encadrant les activités durant l'escale du navire au coffre (commune d'Antibes – Alpes-Maritimes)",
+        "source": "Arrêté préfectoral",
+        "type": "Arrêté préfectoral",
+        "date": null,
+        "date_fin": null,
+        "resume": "Zone interdite au mouillage, baignade, plongée sous-marine",
+        "facade": "MED",
+        "edition": null,
+        "poly_name": null,
+        "plan": "PSCEM",
+        "url": "http://extranet.legicem.metier.developpement-durable.gouv.fr/antibes-a4150.html?id_rub=2056",
+        "_cacem_layer": "MED"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                7.098149313178211,
+                43.558560666301325
+              ],
+              [
+                7.098108619792806,
+                43.55835961793353
+              ],
+              [
+                7.098016845176922,
+                43.5581676759643
+              ],
+              [
+                7.097877240922885,
+                43.55799163990466
+              ],
+              [
+                7.097677802471329,
+                43.55782609810976
+              ],
+              [
+                7.097456194596892,
+                43.55770231354643
+              ],
+              [
+                7.0971848295405,
+                43.55760487624448
+              ],
+              [
+                7.096914955250798,
+                43.55755218742641
+              ],
+              [
+                7.096612974967377,
+                43.5575376878264
+              ],
+              [
+                7.096313225685143,
+                43.55756802367205
+              ],
+              [
+                7.096049294031387,
+                43.557634761131446
+              ],
+              [
+                7.095788323087468,
+                43.55774620839155
+              ],
+              [
+                7.095579597905986,
+                43.557881318414516
+              ],
+              [
+                7.095397134565293,
+                43.55805691106461
+              ],
+              [
+                7.095275392110009,
+                43.558239825226906
+              ],
+              [
+                7.095202935290641,
+                43.558436089431865
+              ],
+              [
+                7.095182331401581,
+                43.55863875102626
+              ],
+              [
+                7.095219327203534,
+                43.55885719314654
+              ],
+              [
+                7.095316467042988,
+                43.55906564072057
+              ],
+              [
+                7.095469714886789,
+                43.559255431678885
+              ],
+              [
+                7.095655503020845,
+                43.559407226245085
+              ],
+              [
+                7.095896959972448,
+                43.55953992082361
+              ],
+              [
+                7.096148485532912,
+                43.55962845533326
+              ],
+              [
+                7.096441391290212,
+                43.559683851092274
+              ],
+              [
+                7.096720360383688,
+                43.55969564629609
+              ],
+              [
+                7.096997427244513,
+                43.559669217383124
+              ],
+              [
+                7.097284060415372,
+                43.55959856936697
+              ],
+              [
+                7.097526127683642,
+                43.55949704452481
+              ],
+              [
+                7.097753763268509,
+                43.55935200441393
+              ],
+              [
+                7.097923977261242,
+                43.559190840621945
+              ],
+              [
+                7.098057959483246,
+                43.558993490378654
+              ],
+              [
+                7.098134126274209,
+                43.5587804817486
+              ],
+              [
+                7.098149313178211,
+                43.558560666301325
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1711,
+        "layer_name": "Zone interdite autour des coffres",
+        "ref_reg": "Arrêté préfectoral N°227/2022 réglementant le mouillage, la baignade et la plongée sous-marine dans le cercle d'évitage des coffres installés dans la baie de Golfe Juan, fixant les obligations et encadrant les activités durant l'escale du navire au coffre (commune d'Antibes – Alpes-Maritimes)",
+        "source": "Arrêté préfectoral",
+        "type": "Arrêté préfectoral",
+        "date": null,
+        "date_fin": null,
+        "resume": "Zone interdite au mouillage, baignade, plongée sous-marine",
+        "facade": "MED",
+        "edition": null,
+        "poly_name": null,
+        "plan": "PSCEM",
+        "url": "http://extranet.legicem.metier.developpement-durable.gouv.fr/antibes-a4150.html?id_rub=2056",
+        "_cacem_layer": "MED"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                7.100166051465446,
+                43.56141063865145
+              ],
+              [
+                7.100125348999211,
+                43.5612095906383
+              ],
+              [
+                7.10003356308713,
+                43.561017649990646
+              ],
+              [
+                7.099893945721726,
+                43.56084161617265
+              ],
+              [
+                7.099694491557766,
+                43.56067607775167
+              ],
+              [
+                7.099472868337218,
+                43.56055229705735
+              ],
+              [
+                7.099201486390539,
+                43.560454864601105
+              ],
+              [
+                7.098931596856115,
+                43.56040218069033
+              ],
+              [
+                7.098629601075671,
+                43.560387686670154
+              ],
+              [
+                7.09832983798169,
+                43.56041802814368
+              ],
+              [
+                7.098065895572225,
+                43.5604847706383
+              ],
+              [
+                7.097804915589645,
+                43.56059622296786
+              ],
+              [
+                7.097596184793531,
+                43.56073133713714
+              ],
+              [
+                7.097413718563306,
+                43.56090693352656
+              ],
+              [
+                7.097291976489333,
+                43.561089850314964
+              ],
+              [
+                7.097219522966305,
+                43.561286116257335
+              ],
+              [
+                7.097198925171907,
+                43.56148877863881
+              ],
+              [
+                7.097235930481633,
+                43.561707220507834
+              ],
+              [
+                7.097333082463085,
+                43.56191566669361
+              ],
+              [
+                7.097486344578591,
+                43.562105455184295
+              ],
+              [
+                7.09767214726508,
+                43.5622572466027
+              ],
+              [
+                7.097913620861424,
+                43.562389936961345
+              ],
+              [
+                7.098165162015472,
+                43.562478466976025
+              ],
+              [
+                7.098458084256351,
+                43.56253385740534
+              ],
+              [
+                7.098737067610351,
+                43.56254564745132
+              ],
+              [
+                7.099014147294756,
+                43.56251921333957
+              ],
+              [
+                7.099300792210895,
+                43.562448559858716
+              ],
+              [
+                7.099542867927975,
+                43.562347030317994
+              ],
+              [
+                7.099770509716958,
+                43.56220198568975
+              ],
+              [
+                7.099940726497464,
+                43.56204081841474
+              ],
+              [
+                7.100074708437991,
+                43.56184346528917
+              ],
+              [
+                7.100150871528003,
+                43.56163045481941
+              ],
+              [
+                7.100166051465446,
+                43.56141063865145
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1710,
+        "layer_name": "Zone interdite autour des coffres",
+        "ref_reg": "Arrêté préfectoral N°227/2022 réglementant le mouillage, la baignade et la plongée sous-marine dans le cercle d'évitage des coffres installés dans la baie de Golfe Juan, fixant les obligations et encadrant les activités durant l'escale du navire au coffre (commune d'Antibes – Alpes-Maritimes)",
+        "source": "Arrêté préfectoral",
+        "type": "Arrêté préfectoral",
+        "date": null,
+        "date_fin": null,
+        "resume": "Zone interdite au mouillage, baignade, plongée sous-marine",
+        "facade": "MED",
+        "edition": null,
+        "poly_name": null,
+        "plan": "PSCEM",
+        "url": "http://extranet.legicem.metier.developpement-durable.gouv.fr/antibes-a4150.html?id_rub=2056",
+        "_cacem_layer": "MED"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                7.100932665312043,
+                43.55939396159544
+              ],
+              [
+                7.100891961591236,
+                43.55919291415356
+              ],
+              [
+                7.100800176340179,
+                43.55900097442497
+              ],
+              [
+                7.100660561527945,
+                43.5588249418413
+              ],
+              [
+                7.100461112158656,
+                43.55865940506231
+              ],
+              [
+                7.100239495068764,
+                43.55853562610751
+              ],
+              [
+                7.099968121351932,
+                43.55843819570498
+              ],
+              [
+                7.099698240592317,
+                43.55838551377417
+              ],
+              [
+                7.099396255224039,
+                43.558371021906694
+              ],
+              [
+                7.099096503062394,
+                43.55840136545388
+              ],
+              [
+                7.098832570813283,
+                43.55846810971786
+              ],
+              [
+                7.098571601483966,
+                43.558579563732714
+              ],
+              [
+                7.098362879822147,
+                43.55871467918497
+              ],
+              [
+                7.098180422344379,
+                43.558890276614775
+              ],
+              [
+                7.09805868698809,
+                43.55907319400449
+              ],
+              [
+                7.097986238630063,
+                43.559269460181284
+              ],
+              [
+                7.097965644264978,
+                43.55947212242203
+              ],
+              [
+                7.098002651191754,
+                43.55969056372135
+              ],
+              [
+                7.098099802544496,
+                43.55989900892684
+              ],
+              [
+                7.098253061811602,
+                43.56008879606745
+              ],
+              [
+                7.098438859999516,
+                43.56024058595967
+              ],
+              [
+                7.098680326887073,
+                43.560373274426
+              ],
+              [
+                7.098931860389103,
+                43.560461802539656
+              ],
+              [
+                7.09922477308216,
+                43.56051719082255
+              ],
+              [
+                7.09950374679571,
+                43.56052897888213
+              ],
+              [
+                7.099780816396164,
+                43.56050254285135
+              ],
+              [
+                7.10006745030204,
+                43.560431887446384
+              ],
+              [
+                7.100309516161914,
+                43.56033035633983
+              ],
+              [
+                7.100537148019678,
+                43.560185310309116
+              ],
+              [
+                7.100707356670513,
+                43.56002414205985
+              ],
+              [
+                7.10084133127087,
+                43.55982678826693
+              ],
+              [
+                7.100917488842304,
+                43.55961377756021
+              ],
+              [
+                7.100932665312043,
+                43.55939396159544
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1714,
+        "layer_name": "Zone interdite autour des coffres",
+        "ref_reg": "Arrêté préfectoral N°227/2022 réglementant le mouillage, la baignade et la plongée sous-marine dans le cercle d'évitage des coffres installés dans la baie de Golfe Juan, fixant les obligations et encadrant les activités durant l'escale du navire au coffre (commune d'Antibes – Alpes-Maritimes)",
+        "source": "Arrêté préfectoral",
+        "type": "Arrêté préfectoral",
+        "date": null,
+        "date_fin": null,
+        "resume": "Zone interdite au mouillage, baignade, plongée sous-marine",
+        "facade": "MED",
+        "edition": null,
+        "poly_name": null,
+        "plan": "PSCEM",
+        "url": "http://extranet.legicem.metier.developpement-durable.gouv.fr/antibes-a4150.html?id_rub=2056",
+        "_cacem_layer": "MED"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                7.1031855705244,
+                43.56023660759344
+              ],
+              [
+                7.103151643666342,
+                43.560069068662635
+              ],
+              [
+                7.103075148453237,
+                43.55990912038611
+              ],
+              [
+                7.1029587950653,
+                43.55976242892179
+              ],
+              [
+                7.102792578943247,
+                43.55962448505755
+              ],
+              [
+                7.102607890676913,
+                43.55952133985511
+              ],
+              [
+                7.102381738618376,
+                43.55944015277641
+              ],
+              [
+                7.10215683218161,
+                43.55939625618241
+              ],
+              [
+                7.101905172751003,
+                43.55938418537428
+              ],
+              [
+                7.101655376002592,
+                43.559409477510904
+              ],
+              [
+                7.101435431121622,
+                43.55946510299787
+              ],
+              [
+                7.101217957185111,
+                43.55955798666468
+              ],
+              [
+                7.101044024760605,
+                43.559670587218214
+              ],
+              [
+                7.1008919812413,
+                43.55981692228191
+              ],
+              [
+                7.10079054072585,
+                43.55996935608014
+              ],
+              [
+                7.100730173967414,
+                43.5601329128505
+              ],
+              [
+                7.100713019818725,
+                43.5603017985851
+              ],
+              [
+                7.100743868059824,
+                43.56048383232511
+              ],
+              [
+                7.100824836882117,
+                43.56065753471944
+              ],
+              [
+                7.100952562060171,
+                43.56081568756186
+              ],
+              [
+                7.101107401721681,
+                43.56094217537463
+              ],
+              [
+                7.101308631647572,
+                43.561052744241955
+              ],
+              [
+                7.10151824870235,
+                43.56112651267134
+              ],
+              [
+                7.101762347478459,
+                43.56117266383571
+              ],
+              [
+                7.101994828652868,
+                43.56118248183996
+              ],
+              [
+                7.102225721676177,
+                43.56116044655621
+              ],
+              [
+                7.102464583543027,
+                43.56110156169894
+              ],
+              [
+                7.10266630397272,
+                43.5610169479875
+              ],
+              [
+                7.102855994574471,
+                43.56089607215198
+              ],
+              [
+                7.10299783151516,
+                43.56076176219897
+              ],
+              [
+                7.103109471953427,
+                43.560597298274494
+              ],
+              [
+                7.103172930475628,
+                43.56041978793231
+              ],
+              [
+                7.1031855705244,
+                43.56023660759344
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1713,
+        "layer_name": "Zone interdite autour des coffres",
+        "ref_reg": "Arrêté préfectoral N°227/2022 réglementant le mouillage, la baignade et la plongée sous-marine dans le cercle d'évitage des coffres installés dans la baie de Golfe Juan, fixant les obligations et encadrant les activités durant l'escale du navire au coffre (commune d'Antibes – Alpes-Maritimes)",
+        "source": "Arrêté préfectoral",
+        "type": "Arrêté préfectoral",
+        "date": null,
+        "date_fin": null,
+        "resume": "Zone interdite au mouillage, baignade, plongée sous-marine",
+        "facade": "MED",
+        "edition": null,
+        "poly_name": null,
+        "plan": "PSCEM",
+        "url": "http://extranet.legicem.metier.developpement-durable.gouv.fr/antibes-a4150.html?id_rub=2056",
+        "_cacem_layer": "MED"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                7.105402253317733,
+                43.56106991567569
+              ],
+              [
+                7.105368319499775,
+                43.56090237733979
+              ],
+              [
+                7.105291817002096,
+                43.560742430531654
+              ],
+              [
+                7.10517545626297,
+                43.560595741357126
+              ],
+              [
+                7.105009232403849,
+                43.560457800805736
+              ],
+              [
+                7.104824537475724,
+                43.56035465931351
+              ],
+              [
+                7.104598379001328,
+                43.56027347680427
+              ],
+              [
+                7.104373467606271,
+                43.56022958477608
+              ],
+              [
+                7.104121804057665,
+                43.56021751909845
+              ],
+              [
+                7.103872004660548,
+                43.560242816349344
+              ],
+              [
+                7.10365205873499,
+                43.56029844635883
+              ],
+              [
+                7.10343458522797,
+                43.560391334519466
+              ],
+              [
+                7.103260654625942,
+                43.56050393868941
+              ],
+              [
+                7.103108614549,
+                43.56065027694233
+              ],
+              [
+                7.103007178445721,
+                43.5608027129003
+              ],
+              [
+                7.102946817124935,
+                43.56096627099839
+              ],
+              [
+                7.102929669246763,
+                43.561135157181646
+              ],
+              [
+                7.102960524962607,
+                43.56131719039802
+              ],
+              [
+                7.103041501665454,
+                43.56149089124068
+              ],
+              [
+                7.103169234802392,
+                43.56164904156781
+              ],
+              [
+                7.103324081593931,
+                43.56177552629334
+              ],
+              [
+                7.103525318708576,
+                43.56188609111709
+              ],
+              [
+                7.103734941653188,
+                43.56195985531022
+              ],
+              [
+                7.103979045753395,
+                43.5620060015183
+              ],
+              [
+                7.104211530680669,
+                43.56201581478224
+              ],
+              [
+                7.104442426204097,
+                43.56199377477203
+              ],
+              [
+                7.104681289264132,
+                43.56193488500414
+              ],
+              [
+                7.104883009354745,
+                43.56185026712531
+              ],
+              [
+                7.105072698042951,
+                43.56172938734685
+              ],
+              [
+                7.105214531857035,
+                43.56159507441999
+              ],
+              [
+                7.105326167566436,
+                43.561430608120546
+              ],
+              [
+                7.10538962015695,
+                43.56125309637939
+              ],
+              [
+                7.105402253317733,
+                43.56106991567569
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1709,
+        "layer_name": "Zone interdite autour des coffres",
+        "ref_reg": "Arrêté préfectoral N°227/2022 réglementant le mouillage, la baignade et la plongée sous-marine dans le cercle d'évitage des coffres installés dans la baie de Golfe Juan, fixant les obligations et encadrant les activités durant l'escale du navire au coffre (commune d'Antibes – Alpes-Maritimes)",
+        "source": "Arrêté préfectoral",
+        "type": "Arrêté préfectoral",
+        "date": null,
+        "date_fin": null,
+        "resume": "Zone interdite au mouillage, baignade, plongée sous-marine",
+        "facade": "MED",
+        "edition": null,
+        "poly_name": null,
+        "plan": "PSCEM",
+        "url": "http://extranet.legicem.metier.developpement-durable.gouv.fr/antibes-a4150.html?id_rub=2056",
+        "_cacem_layer": "MED"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                7.10703265935368,
+                43.55939387830027
+              ],
+              [
+                7.106991934276216,
+                43.55919283314572
+              ],
+              [
+                7.106900128636352,
+                43.55900089857416
+              ],
+              [
+                7.106760495125393,
+                43.558824873834524
+              ],
+              [
+                7.106561028172631,
+                43.55865934826097
+              ],
+              [
+                7.106339397935137,
+                43.55853558175688
+              ],
+              [
+                7.106068013869751,
+                43.55843816660023
+              ],
+              [
+                7.105798127514922,
+                43.55838549983133
+              ],
+              [
+                7.105496140608183,
+                43.55837102492928
+              ],
+              [
+                7.105196391670601,
+                43.558401385316266
+              ],
+              [
+                7.104932466512044,
+                43.558468144407605
+              ],
+              [
+                7.104671509022524,
+                43.558579613083225
+              ],
+              [
+                7.104462801713833,
+                43.55871474026096
+              ],
+              [
+                7.104280362889424,
+                43.55889034794059
+              ],
+              [
+                7.104158646964052,
+                43.559073272168824
+              ],
+              [
+                7.104086219454985,
+                43.55926954241512
+              ],
+              [
+                7.10406564661836,
+                43.55947220581226
+              ],
+              [
+                7.104102676749856,
+                43.55969064503192
+              ],
+              [
+                7.104199850245503,
+                43.5598990847789
+              ],
+              [
+                7.104353129673504,
+                43.56008886330891
+              ],
+              [
+                7.104538943985856,
+                43.56024064276263
+              ],
+              [
+                7.104780424968601,
+                43.56037331766311
+              ],
+              [
+                7.105031967874549,
+                43.56046183164546
+              ],
+              [
+                7.105324886450858,
+                43.56051720347252
+              ],
+              [
+                7.105603861415871,
+                43.560528975859455
+              ],
+              [
+                7.105880928207086,
+                43.56050252426312
+              ],
+              [
+                7.106167554606101,
+                43.56043185275541
+              ],
+              [
+                7.106409609679248,
+                43.56033030805002
+              ],
+              [
+                7.106637226127681,
+                43.56018524923151
+              ],
+              [
+                7.106807417656785,
+                43.56002407142048
+              ],
+              [
+                7.10694137129165,
+                43.55982671010155
+              ],
+              [
+                7.107017506234751,
+                43.559613695116994
+              ],
+              [
+                7.10703265935368,
+                43.55939387830027
               ]
             ]
           ]
@@ -335612,646 +336836,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 1712,
-        "layer_name": "Zone interdite autour des coffres",
-        "ref_reg": "Arrêté préfectoral N°227/2022 réglementant le mouillage, la baignade et la plongée sous-marine dans le cercle d'évitage des coffres installés dans la baie de Golfe Juan, fixant les obligations et encadrant les activités durant l'escale du navire au coffre (commune d'Antibes – Alpes-Maritimes)",
-        "source": "Arrêté préfectoral",
-        "type": "Arrêté préfectoral",
-        "date": null,
-        "date_fin": null,
-        "resume": "Zone interdite au mouillage, baignade, plongée sous-marine",
-        "facade": "MED",
-        "edition": null,
-        "poly_name": null,
-        "plan": "PSCEM",
-        "url": "http://extranet.legicem.metier.developpement-durable.gouv.fr/antibes-a4150.html?id_rub=2056",
-        "_cacem_layer": "MED"
-      },
-      "geometry": {
-        "type": "MultiPolygon",
-        "coordinates": [
-          [
-            [
-              [
-                7.098149313178211,
-                43.558560666301325
-              ],
-              [
-                7.098108619792806,
-                43.55835961793353
-              ],
-              [
-                7.098016845176922,
-                43.5581676759643
-              ],
-              [
-                7.097877240922885,
-                43.55799163990466
-              ],
-              [
-                7.097677802471329,
-                43.55782609810976
-              ],
-              [
-                7.097456194596892,
-                43.55770231354643
-              ],
-              [
-                7.0971848295405,
-                43.55760487624448
-              ],
-              [
-                7.096914955250798,
-                43.55755218742641
-              ],
-              [
-                7.096612974967377,
-                43.5575376878264
-              ],
-              [
-                7.096313225685143,
-                43.55756802367205
-              ],
-              [
-                7.096049294031387,
-                43.557634761131446
-              ],
-              [
-                7.095788323087468,
-                43.55774620839155
-              ],
-              [
-                7.095579597905986,
-                43.557881318414516
-              ],
-              [
-                7.095397134565293,
-                43.55805691106461
-              ],
-              [
-                7.095275392110009,
-                43.558239825226906
-              ],
-              [
-                7.095202935290641,
-                43.558436089431865
-              ],
-              [
-                7.095182331401581,
-                43.55863875102626
-              ],
-              [
-                7.095219327203534,
-                43.55885719314654
-              ],
-              [
-                7.095316467042988,
-                43.55906564072057
-              ],
-              [
-                7.095469714886789,
-                43.559255431678885
-              ],
-              [
-                7.095655503020845,
-                43.559407226245085
-              ],
-              [
-                7.095896959972448,
-                43.55953992082361
-              ],
-              [
-                7.096148485532912,
-                43.55962845533326
-              ],
-              [
-                7.096441391290212,
-                43.559683851092274
-              ],
-              [
-                7.096720360383688,
-                43.55969564629609
-              ],
-              [
-                7.096997427244513,
-                43.559669217383124
-              ],
-              [
-                7.097284060415372,
-                43.55959856936697
-              ],
-              [
-                7.097526127683642,
-                43.55949704452481
-              ],
-              [
-                7.097753763268509,
-                43.55935200441393
-              ],
-              [
-                7.097923977261242,
-                43.559190840621945
-              ],
-              [
-                7.098057959483246,
-                43.558993490378654
-              ],
-              [
-                7.098134126274209,
-                43.5587804817486
-              ],
-              [
-                7.098149313178211,
-                43.558560666301325
-              ]
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 1710,
-        "layer_name": "Zone interdite autour des coffres",
-        "ref_reg": "Arrêté préfectoral N°227/2022 réglementant le mouillage, la baignade et la plongée sous-marine dans le cercle d'évitage des coffres installés dans la baie de Golfe Juan, fixant les obligations et encadrant les activités durant l'escale du navire au coffre (commune d'Antibes – Alpes-Maritimes)",
-        "source": "Arrêté préfectoral",
-        "type": "Arrêté préfectoral",
-        "date": null,
-        "date_fin": null,
-        "resume": "Zone interdite au mouillage, baignade, plongée sous-marine",
-        "facade": "MED",
-        "edition": null,
-        "poly_name": null,
-        "plan": "PSCEM",
-        "url": "http://extranet.legicem.metier.developpement-durable.gouv.fr/antibes-a4150.html?id_rub=2056",
-        "_cacem_layer": "MED"
-      },
-      "geometry": {
-        "type": "MultiPolygon",
-        "coordinates": [
-          [
-            [
-              [
-                7.100932665312043,
-                43.55939396159544
-              ],
-              [
-                7.100891961591236,
-                43.55919291415356
-              ],
-              [
-                7.100800176340179,
-                43.55900097442497
-              ],
-              [
-                7.100660561527945,
-                43.5588249418413
-              ],
-              [
-                7.100461112158656,
-                43.55865940506231
-              ],
-              [
-                7.100239495068764,
-                43.55853562610751
-              ],
-              [
-                7.099968121351932,
-                43.55843819570498
-              ],
-              [
-                7.099698240592317,
-                43.55838551377417
-              ],
-              [
-                7.099396255224039,
-                43.558371021906694
-              ],
-              [
-                7.099096503062394,
-                43.55840136545388
-              ],
-              [
-                7.098832570813283,
-                43.55846810971786
-              ],
-              [
-                7.098571601483966,
-                43.558579563732714
-              ],
-              [
-                7.098362879822147,
-                43.55871467918497
-              ],
-              [
-                7.098180422344379,
-                43.558890276614775
-              ],
-              [
-                7.09805868698809,
-                43.55907319400449
-              ],
-              [
-                7.097986238630063,
-                43.559269460181284
-              ],
-              [
-                7.097965644264978,
-                43.55947212242203
-              ],
-              [
-                7.098002651191754,
-                43.55969056372135
-              ],
-              [
-                7.098099802544496,
-                43.55989900892684
-              ],
-              [
-                7.098253061811602,
-                43.56008879606745
-              ],
-              [
-                7.098438859999516,
-                43.56024058595967
-              ],
-              [
-                7.098680326887073,
-                43.560373274426
-              ],
-              [
-                7.098931860389103,
-                43.560461802539656
-              ],
-              [
-                7.09922477308216,
-                43.56051719082255
-              ],
-              [
-                7.09950374679571,
-                43.56052897888213
-              ],
-              [
-                7.099780816396164,
-                43.56050254285135
-              ],
-              [
-                7.10006745030204,
-                43.560431887446384
-              ],
-              [
-                7.100309516161914,
-                43.56033035633983
-              ],
-              [
-                7.100537148019678,
-                43.560185310309116
-              ],
-              [
-                7.100707356670513,
-                43.56002414205985
-              ],
-              [
-                7.10084133127087,
-                43.55982678826693
-              ],
-              [
-                7.100917488842304,
-                43.55961377756021
-              ],
-              [
-                7.100932665312043,
-                43.55939396159544
-              ]
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 1709,
-        "layer_name": "Zone interdite autour des coffres",
-        "ref_reg": "Arrêté préfectoral N°227/2022 réglementant le mouillage, la baignade et la plongée sous-marine dans le cercle d'évitage des coffres installés dans la baie de Golfe Juan, fixant les obligations et encadrant les activités durant l'escale du navire au coffre (commune d'Antibes – Alpes-Maritimes)",
-        "source": "Arrêté préfectoral",
-        "type": "Arrêté préfectoral",
-        "date": null,
-        "date_fin": null,
-        "resume": "Zone interdite au mouillage, baignade, plongée sous-marine",
-        "facade": "MED",
-        "edition": null,
-        "poly_name": null,
-        "plan": "PSCEM",
-        "url": "http://extranet.legicem.metier.developpement-durable.gouv.fr/antibes-a4150.html?id_rub=2056",
-        "_cacem_layer": "MED"
-      },
-      "geometry": {
-        "type": "MultiPolygon",
-        "coordinates": [
-          [
-            [
-              [
-                7.10703265935368,
-                43.55939387830027
-              ],
-              [
-                7.106991934276216,
-                43.55919283314572
-              ],
-              [
-                7.106900128636352,
-                43.55900089857416
-              ],
-              [
-                7.106760495125393,
-                43.558824873834524
-              ],
-              [
-                7.106561028172631,
-                43.55865934826097
-              ],
-              [
-                7.106339397935137,
-                43.55853558175688
-              ],
-              [
-                7.106068013869751,
-                43.55843816660023
-              ],
-              [
-                7.105798127514922,
-                43.55838549983133
-              ],
-              [
-                7.105496140608183,
-                43.55837102492928
-              ],
-              [
-                7.105196391670601,
-                43.558401385316266
-              ],
-              [
-                7.104932466512044,
-                43.558468144407605
-              ],
-              [
-                7.104671509022524,
-                43.558579613083225
-              ],
-              [
-                7.104462801713833,
-                43.55871474026096
-              ],
-              [
-                7.104280362889424,
-                43.55889034794059
-              ],
-              [
-                7.104158646964052,
-                43.559073272168824
-              ],
-              [
-                7.104086219454985,
-                43.55926954241512
-              ],
-              [
-                7.10406564661836,
-                43.55947220581226
-              ],
-              [
-                7.104102676749856,
-                43.55969064503192
-              ],
-              [
-                7.104199850245503,
-                43.5598990847789
-              ],
-              [
-                7.104353129673504,
-                43.56008886330891
-              ],
-              [
-                7.104538943985856,
-                43.56024064276263
-              ],
-              [
-                7.104780424968601,
-                43.56037331766311
-              ],
-              [
-                7.105031967874549,
-                43.56046183164546
-              ],
-              [
-                7.105324886450858,
-                43.56051720347252
-              ],
-              [
-                7.105603861415871,
-                43.560528975859455
-              ],
-              [
-                7.105880928207086,
-                43.56050252426312
-              ],
-              [
-                7.106167554606101,
-                43.56043185275541
-              ],
-              [
-                7.106409609679248,
-                43.56033030805002
-              ],
-              [
-                7.106637226127681,
-                43.56018524923151
-              ],
-              [
-                7.106807417656785,
-                43.56002407142048
-              ],
-              [
-                7.10694137129165,
-                43.55982671010155
-              ],
-              [
-                7.107017506234751,
-                43.559613695116994
-              ],
-              [
-                7.10703265935368,
-                43.55939387830027
-              ]
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 1714,
-        "layer_name": "Zone interdite autour des coffres",
-        "ref_reg": "Arrêté préfectoral N°227/2022 réglementant le mouillage, la baignade et la plongée sous-marine dans le cercle d'évitage des coffres installés dans la baie de Golfe Juan, fixant les obligations et encadrant les activités durant l'escale du navire au coffre (commune d'Antibes – Alpes-Maritimes)",
-        "source": "Arrêté préfectoral",
-        "type": "Arrêté préfectoral",
-        "date": null,
-        "date_fin": null,
-        "resume": "Zone interdite au mouillage, baignade, plongée sous-marine",
-        "facade": "MED",
-        "edition": null,
-        "poly_name": null,
-        "plan": "PSCEM",
-        "url": "http://extranet.legicem.metier.developpement-durable.gouv.fr/antibes-a4150.html?id_rub=2056",
-        "_cacem_layer": "MED"
-      },
-      "geometry": {
-        "type": "MultiPolygon",
-        "coordinates": [
-          [
-            [
-              [
-                7.1031855705244,
-                43.56023660759344
-              ],
-              [
-                7.103151643666342,
-                43.560069068662635
-              ],
-              [
-                7.103075148453237,
-                43.55990912038611
-              ],
-              [
-                7.1029587950653,
-                43.55976242892179
-              ],
-              [
-                7.102792578943247,
-                43.55962448505755
-              ],
-              [
-                7.102607890676913,
-                43.55952133985511
-              ],
-              [
-                7.102381738618376,
-                43.55944015277641
-              ],
-              [
-                7.10215683218161,
-                43.55939625618241
-              ],
-              [
-                7.101905172751003,
-                43.55938418537428
-              ],
-              [
-                7.101655376002592,
-                43.559409477510904
-              ],
-              [
-                7.101435431121622,
-                43.55946510299787
-              ],
-              [
-                7.101217957185111,
-                43.55955798666468
-              ],
-              [
-                7.101044024760605,
-                43.559670587218214
-              ],
-              [
-                7.1008919812413,
-                43.55981692228191
-              ],
-              [
-                7.10079054072585,
-                43.55996935608014
-              ],
-              [
-                7.100730173967414,
-                43.5601329128505
-              ],
-              [
-                7.100713019818725,
-                43.5603017985851
-              ],
-              [
-                7.100743868059824,
-                43.56048383232511
-              ],
-              [
-                7.100824836882117,
-                43.56065753471944
-              ],
-              [
-                7.100952562060171,
-                43.56081568756186
-              ],
-              [
-                7.101107401721681,
-                43.56094217537463
-              ],
-              [
-                7.101308631647572,
-                43.561052744241955
-              ],
-              [
-                7.10151824870235,
-                43.56112651267134
-              ],
-              [
-                7.101762347478459,
-                43.56117266383571
-              ],
-              [
-                7.101994828652868,
-                43.56118248183996
-              ],
-              [
-                7.102225721676177,
-                43.56116044655621
-              ],
-              [
-                7.102464583543027,
-                43.56110156169894
-              ],
-              [
-                7.10266630397272,
-                43.5610169479875
-              ],
-              [
-                7.102855994574471,
-                43.56089607215198
-              ],
-              [
-                7.10299783151516,
-                43.56076176219897
-              ],
-              [
-                7.103109471953427,
-                43.560597298274494
-              ],
-              [
-                7.103172930475628,
-                43.56041978793231
-              ],
-              [
-                7.1031855705244,
-                43.56023660759344
-              ]
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": 226,
         "layer_name": "Plongée sous-marine",
         "ref_reg": "Arrête préfectoral n°222-2020 portant interdiction de la plongée sous-marine dans le cantonnement de pêche de la Péquerolle au droit de la commune d'Antibes",
@@ -336339,590 +336923,6 @@
               [
                 7.143783333333333,
                 43.57273333333333
-              ]
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 1713,
-        "layer_name": "Zone interdite autour des coffres",
-        "ref_reg": "Arrêté préfectoral N°227/2022 réglementant le mouillage, la baignade et la plongée sous-marine dans le cercle d'évitage des coffres installés dans la baie de Golfe Juan, fixant les obligations et encadrant les activités durant l'escale du navire au coffre (commune d'Antibes – Alpes-Maritimes)",
-        "source": "Arrêté préfectoral",
-        "type": "Arrêté préfectoral",
-        "date": null,
-        "date_fin": null,
-        "resume": "Zone interdite au mouillage, baignade, plongée sous-marine",
-        "facade": "MED",
-        "edition": null,
-        "poly_name": null,
-        "plan": "PSCEM",
-        "url": "http://extranet.legicem.metier.developpement-durable.gouv.fr/antibes-a4150.html?id_rub=2056",
-        "_cacem_layer": "MED"
-      },
-      "geometry": {
-        "type": "MultiPolygon",
-        "coordinates": [
-          [
-            [
-              [
-                7.105402253317733,
-                43.56106991567569
-              ],
-              [
-                7.105368319499775,
-                43.56090237733979
-              ],
-              [
-                7.105291817002096,
-                43.560742430531654
-              ],
-              [
-                7.10517545626297,
-                43.560595741357126
-              ],
-              [
-                7.105009232403849,
-                43.560457800805736
-              ],
-              [
-                7.104824537475724,
-                43.56035465931351
-              ],
-              [
-                7.104598379001328,
-                43.56027347680427
-              ],
-              [
-                7.104373467606271,
-                43.56022958477608
-              ],
-              [
-                7.104121804057665,
-                43.56021751909845
-              ],
-              [
-                7.103872004660548,
-                43.560242816349344
-              ],
-              [
-                7.10365205873499,
-                43.56029844635883
-              ],
-              [
-                7.10343458522797,
-                43.560391334519466
-              ],
-              [
-                7.103260654625942,
-                43.56050393868941
-              ],
-              [
-                7.103108614549,
-                43.56065027694233
-              ],
-              [
-                7.103007178445721,
-                43.5608027129003
-              ],
-              [
-                7.102946817124935,
-                43.56096627099839
-              ],
-              [
-                7.102929669246763,
-                43.561135157181646
-              ],
-              [
-                7.102960524962607,
-                43.56131719039802
-              ],
-              [
-                7.103041501665454,
-                43.56149089124068
-              ],
-              [
-                7.103169234802392,
-                43.56164904156781
-              ],
-              [
-                7.103324081593931,
-                43.56177552629334
-              ],
-              [
-                7.103525318708576,
-                43.56188609111709
-              ],
-              [
-                7.103734941653188,
-                43.56195985531022
-              ],
-              [
-                7.103979045753395,
-                43.5620060015183
-              ],
-              [
-                7.104211530680669,
-                43.56201581478224
-              ],
-              [
-                7.104442426204097,
-                43.56199377477203
-              ],
-              [
-                7.104681289264132,
-                43.56193488500414
-              ],
-              [
-                7.104883009354745,
-                43.56185026712531
-              ],
-              [
-                7.105072698042951,
-                43.56172938734685
-              ],
-              [
-                7.105214531857035,
-                43.56159507441999
-              ],
-              [
-                7.105326167566436,
-                43.561430608120546
-              ],
-              [
-                7.10538962015695,
-                43.56125309637939
-              ],
-              [
-                7.105402253317733,
-                43.56106991567569
-              ]
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 1711,
-        "layer_name": "Zone interdite autour des coffres",
-        "ref_reg": "Arrêté préfectoral N°227/2022 réglementant le mouillage, la baignade et la plongée sous-marine dans le cercle d'évitage des coffres installés dans la baie de Golfe Juan, fixant les obligations et encadrant les activités durant l'escale du navire au coffre (commune d'Antibes – Alpes-Maritimes)",
-        "source": "Arrêté préfectoral",
-        "type": "Arrêté préfectoral",
-        "date": null,
-        "date_fin": null,
-        "resume": "Zone interdite au mouillage, baignade, plongée sous-marine",
-        "facade": "MED",
-        "edition": null,
-        "poly_name": null,
-        "plan": "PSCEM",
-        "url": "http://extranet.legicem.metier.developpement-durable.gouv.fr/antibes-a4150.html?id_rub=2056",
-        "_cacem_layer": "MED"
-      },
-      "geometry": {
-        "type": "MultiPolygon",
-        "coordinates": [
-          [
-            [
-              [
-                7.100166051465446,
-                43.56141063865145
-              ],
-              [
-                7.100125348999211,
-                43.5612095906383
-              ],
-              [
-                7.10003356308713,
-                43.561017649990646
-              ],
-              [
-                7.099893945721726,
-                43.56084161617265
-              ],
-              [
-                7.099694491557766,
-                43.56067607775167
-              ],
-              [
-                7.099472868337218,
-                43.56055229705735
-              ],
-              [
-                7.099201486390539,
-                43.560454864601105
-              ],
-              [
-                7.098931596856115,
-                43.56040218069033
-              ],
-              [
-                7.098629601075671,
-                43.560387686670154
-              ],
-              [
-                7.09832983798169,
-                43.56041802814368
-              ],
-              [
-                7.098065895572225,
-                43.5604847706383
-              ],
-              [
-                7.097804915589645,
-                43.56059622296786
-              ],
-              [
-                7.097596184793531,
-                43.56073133713714
-              ],
-              [
-                7.097413718563306,
-                43.56090693352656
-              ],
-              [
-                7.097291976489333,
-                43.561089850314964
-              ],
-              [
-                7.097219522966305,
-                43.561286116257335
-              ],
-              [
-                7.097198925171907,
-                43.56148877863881
-              ],
-              [
-                7.097235930481633,
-                43.561707220507834
-              ],
-              [
-                7.097333082463085,
-                43.56191566669361
-              ],
-              [
-                7.097486344578591,
-                43.562105455184295
-              ],
-              [
-                7.09767214726508,
-                43.5622572466027
-              ],
-              [
-                7.097913620861424,
-                43.562389936961345
-              ],
-              [
-                7.098165162015472,
-                43.562478466976025
-              ],
-              [
-                7.098458084256351,
-                43.56253385740534
-              ],
-              [
-                7.098737067610351,
-                43.56254564745132
-              ],
-              [
-                7.099014147294756,
-                43.56251921333957
-              ],
-              [
-                7.099300792210895,
-                43.562448559858716
-              ],
-              [
-                7.099542867927975,
-                43.562347030317994
-              ],
-              [
-                7.099770509716958,
-                43.56220198568975
-              ],
-              [
-                7.099940726497464,
-                43.56204081841474
-              ],
-              [
-                7.100074708437991,
-                43.56184346528917
-              ],
-              [
-                7.100150871528003,
-                43.56163045481941
-              ],
-              [
-                7.100166051465446,
-                43.56141063865145
-              ]
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 3534,
-        "layer_name": "Pêche",
-        "ref_reg": "Arrêté ministériel du 23 mars 1988 portant création d'une réserve sur le littoral de la commune de Vallauris",
-        "source": "Arrêté ministériel",
-        "type": "Arrêté ministériel",
-        "date": null,
-        "date_fin": null,
-        "resume": "Réserve - Pêche sous toutes ses formes interdite",
-        "facade": "MED",
-        "edition": null,
-        "poly_name": null,
-        "plan": "PIRC",
-        "url": "http://extranet.legicem.metier.developpement-durable.gouv.fr/reserve-de-peche-valauris-a4716.html?id_rub=1942",
-        "_cacem_layer": "MED"
-      },
-      "geometry": {
-        "type": "MultiPolygon",
-        "coordinates": [
-          [
-            [
-              [
-                7.062777777777777,
-                43.54777777777778
-              ],
-              [
-                7.065555555555555,
-                43.5436111111111
-              ],
-              [
-                7.076666666666667,
-                43.547222222222196
-              ],
-              [
-                7.074166666666667,
-                43.551388888888894
-              ],
-              [
-                7.062777777777777,
-                43.54777777777778
-              ]
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 3535,
-        "layer_name": "Dragage",
-        "ref_reg": "Arrêté d'autorisation n°20181863 au titre de l'article L.214-3 du code de l'environnement Travaux de dragage des sédiments du Port de Mouré Rouge et le rechargement de plage de Cannes soumis à autorisation environnementale Commune de Cannes",
-        "source": "Arrêté",
-        "type": "Arrêté préfectoral",
-        "date": null,
-        "date_fin": null,
-        "resume": "Port de Mouré Rouge",
-        "facade": "MED",
-        "edition": null,
-        "poly_name": null,
-        "plan": "PSCEM",
-        "url": "http://extranet.legicem.metier.developpement-durable.gouv.fr/cannes-a4413.html?id_rub=2081",
-        "_cacem_layer": "MED"
-      },
-      "geometry": {
-        "type": "MultiPolygon",
-        "coordinates": [
-          [
-            [
-              [
-                7.042264,
-                43.541893099999925
-              ],
-              [
-                7.0422424,
-                43.54193759999977
-              ],
-              [
-                7.042158,
-                43.54197069999981
-              ],
-              [
-                7.0416024,
-                43.54181519999982
-              ],
-              [
-                7.0413552,
-                43.541781199999825
-              ],
-              [
-                7.0412429,
-                43.54178429999977
-              ],
-              [
-                7.0407827,
-                43.54194189999976
-              ],
-              [
-                7.0409177,
-                43.542132099999826
-              ],
-              [
-                7.0413722,
-                43.541954599999805
-              ],
-              [
-                7.0413893,
-                43.54197949999978
-              ],
-              [
-                7.0408506,
-                43.542182699999806
-              ],
-              [
-                7.0410099,
-                43.54237309999978
-              ],
-              [
-                7.041822,
-                43.54206129999981
-              ],
-              [
-                7.0418309,
-                43.54208059999978
-              ],
-              [
-                7.0410257,
-                43.5423918999998
-              ],
-              [
-                7.0411823,
-                43.5425650999998
-              ],
-              [
-                7.0417385,
-                43.54234779999978
-              ],
-              [
-                7.041757,
-                43.54236979999981
-              ],
-              [
-                7.0412028,
-                43.542584599999806
-              ],
-              [
-                7.0413457,
-                43.542697399999795
-              ],
-              [
-                7.0414116,
-                43.542649699999814
-              ],
-              [
-                7.0415299,
-                43.5426931999998
-              ],
-              [
-                7.0414804,
-                43.54277279999979
-              ],
-              [
-                7.0417246,
-                43.542860199999794
-              ],
-              [
-                7.0417144,
-                43.54287669999981
-              ],
-              [
-                7.0420162,
-                43.54297259999981
-              ],
-              [
-                7.0424671,
-                43.542218899999824
-              ],
-              [
-                7.0424958,
-                43.5422282999998
-              ],
-              [
-                7.0420434,
-                43.54298139999981
-              ],
-              [
-                7.04228,
-                43.54305799999982
-              ],
-              [
-                7.0426082,
-                43.542511599999806
-              ],
-              [
-                7.0426339,
-                43.542520899999786
-              ],
-              [
-                7.0423058,
-                43.54306629999979
-              ],
-              [
-                7.0423981,
-                43.543096199999795
-              ],
-              [
-                7.0425148,
-                43.54310359999981
-              ],
-              [
-                7.0427314,
-                43.54274299999979
-              ],
-              [
-                7.0427601,
-                43.54275499999983
-              ],
-              [
-                7.0425463,
-                43.543105599999784
-              ],
-              [
-                7.0431119,
-                43.5431281999998
-              ],
-              [
-                7.043114,
-                43.54291959999978
-              ],
-              [
-                7.0426947,
-                43.54205039999985
-              ],
-              [
-                7.0427732,
-                43.541773499999806
-              ],
-              [
-                7.0426974,
-                43.54171599999982
-              ],
-              [
-                7.0425083,
-                43.54166889999981
-              ],
-              [
-                7.0424889,
-                43.54163989999982
-              ],
-              [
-                7.042496099999493,
-                43.541594600000685
-              ],
-              [
-                7.042264,
-                43.541893099999925
               ]
             ]
           ]
@@ -350868,17 +350868,17 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 5908,
+        "id": 5907,
         "layer_name": "ZMEL",
         "ref_reg": "Arrêté interpréfectoral n°176-2025 du 11 juillet 2025 approuvant la convention autorisant une zone de mouillages et d'équipements légers constituée de six secteurs, située dans l'anse du Croûton, dans les eaux intérieures maritimes bordant le littoral de la commune d'Antibes",
         "source": "Arrêté",
         "type": "Arrêté inter-préfectoral",
         "date": "2025-07-11T00:00:00",
         "date_fin": null,
-        "resume": "Secteur 5 : 7 dispositifs d’amarrage. Installation du 16 avril au 15 octobre. Mouillage à l’ancre interdit. La pêche est interdite. Les travaux de carénage sont interdits",
+        "resume": "Secteur 4 : 13 dispositifs d’amarrage. Installation du 16 avril au 15 octobre, 9 dispositifs d’amarrage restent déployés du 16 octobre au 14 avril à titre expérimental. Mouillage à l’ancre interdit. La pêche est interdite. Les travaux de carénage sont interdits. ",
         "facade": "MED",
         "edition": null,
-        "poly_name": "Secteur 5",
+        "poly_name": "Secteur 4",
         "plan": "PSCEM",
         "url": "https://extranet.legicem.metier.developpement-durable.gouv.fr/zmel-antibes-a4394.html?error=login_required&state=33fdeaafcac3b9c294e0e7660fde442d#Anse-du-Crouton",
         "_cacem_layer": "MED"
@@ -350889,20 +350889,32 @@
           [
             [
               [
-                7.117,
-                43.5523
+                7.11945,
+                43.55405
               ],
               [
-                7.119433333333333,
-                43.551966666666665
+                7.117816666666666,
+                43.55406666666666
               ],
               [
-                7.11795,
-                43.55075
+                7.11475,
+                43.55368333333333
               ],
               [
-                7.117,
-                43.5523
+                7.114866666666667,
+                43.55285
+              ],
+              [
+                7.119466666666666,
+                43.55218333333333
+              ],
+              [
+                7.11955,
+                43.553283333333326
+              ],
+              [
+                7.11945,
+                43.55405
               ]
             ]
           ]
@@ -351700,6 +351712,50 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 5908,
+        "layer_name": "ZMEL",
+        "ref_reg": "Arrêté interpréfectoral n°176-2025 du 11 juillet 2025 approuvant la convention autorisant une zone de mouillages et d'équipements légers constituée de six secteurs, située dans l'anse du Croûton, dans les eaux intérieures maritimes bordant le littoral de la commune d'Antibes",
+        "source": "Arrêté",
+        "type": "Arrêté inter-préfectoral",
+        "date": "2025-07-11T00:00:00",
+        "date_fin": null,
+        "resume": "Secteur 5 : 7 dispositifs d’amarrage. Installation du 16 avril au 15 octobre. Mouillage à l’ancre interdit. La pêche est interdite. Les travaux de carénage sont interdits",
+        "facade": "MED",
+        "edition": null,
+        "poly_name": "Secteur 5",
+        "plan": "PSCEM",
+        "url": "https://extranet.legicem.metier.developpement-durable.gouv.fr/zmel-antibes-a4394.html?error=login_required&state=33fdeaafcac3b9c294e0e7660fde442d#Anse-du-Crouton",
+        "_cacem_layer": "MED"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                7.117,
+                43.5523
+              ],
+              [
+                7.119433333333333,
+                43.551966666666665
+              ],
+              [
+                7.11795,
+                43.55075
+              ],
+              [
+                7.117,
+                43.5523
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 5910,
         "layer_name": "Mouillage",
         "ref_reg": "Arrêté préfectoral n°254/2025 du 11 juillet 2025 portant interdiction du mouillage et limitation de la vitesse des navires et engins de toute nature dans l'anse du Croûton au droit du littoral de la commune d'Antibes Juan-les-Pins",
@@ -352220,62 +352276,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 5907,
-        "layer_name": "ZMEL",
-        "ref_reg": "Arrêté interpréfectoral n°176-2025 du 11 juillet 2025 approuvant la convention autorisant une zone de mouillages et d'équipements légers constituée de six secteurs, située dans l'anse du Croûton, dans les eaux intérieures maritimes bordant le littoral de la commune d'Antibes",
-        "source": "Arrêté",
-        "type": "Arrêté inter-préfectoral",
-        "date": "2025-07-11T00:00:00",
-        "date_fin": null,
-        "resume": "Secteur 4 : 13 dispositifs d’amarrage. Installation du 16 avril au 15 octobre, 9 dispositifs d’amarrage restent déployés du 16 octobre au 14 avril à titre expérimental. Mouillage à l’ancre interdit. La pêche est interdite. Les travaux de carénage sont interdits. ",
-        "facade": "MED",
-        "edition": null,
-        "poly_name": "Secteur 4",
-        "plan": "PSCEM",
-        "url": "https://extranet.legicem.metier.developpement-durable.gouv.fr/zmel-antibes-a4394.html?error=login_required&state=33fdeaafcac3b9c294e0e7660fde442d#Anse-du-Crouton",
-        "_cacem_layer": "MED"
-      },
-      "geometry": {
-        "type": "MultiPolygon",
-        "coordinates": [
-          [
-            [
-              [
-                7.11945,
-                43.55405
-              ],
-              [
-                7.117816666666666,
-                43.55406666666666
-              ],
-              [
-                7.11475,
-                43.55368333333333
-              ],
-              [
-                7.114866666666667,
-                43.55285
-              ],
-              [
-                7.119466666666666,
-                43.55218333333333
-              ],
-              [
-                7.11955,
-                43.553283333333326
-              ],
-              [
-                7.11945,
-                43.55405
-              ]
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": 6616,
         "layer_name": "Dérogation posidonie NaturDive",
         "ref_reg": "Arrêté préfectoral du 23 juillet 2026 portant dérogation à la réglementation relative aux espèces protégées au titre des art. L. 411-1 et 2 du code de l'environnement au bénéfice de l'association NaturDive pour procéder à la récolte, le stockage temporaire, la manipulation et le suivi de fragments de Posidonia oceanica récupérés en épave pour les années 2026 à 2033 sur deux stations différentes situées sur les communes d'Antibes et de Théoules-sur-Mer",
@@ -352372,226 +352372,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 3539,
-        "layer_name": "Rechargement",
-        "ref_reg": "Récepissé de dépôt de déclaration Dragage du Loup et rechargement des plages pour 10 ans au titre des articles L.214-1 à L214-6 du Code de l'Environnement",
-        "source": "Récépissé",
-        "type": "Récépissé de dépôt",
-        "date": null,
-        "date_fin": null,
-        "resume": "Plages du Loup, du centre nautique et de la Fighière",
-        "facade": "MED",
-        "edition": null,
-        "poly_name": null,
-        "plan": "PSCEM",
-        "url": "http://extranet.legicem.metier.developpement-durable.gouv.fr/villeuneuve-loubet-a4416.html?id_rub=2081",
-        "_cacem_layer": "MED"
-      },
-      "geometry": {
-        "type": "MultiPolygon",
-        "coordinates": [
-          [
-            [
-              [
-                7.1445395,
-                43.6423854
-              ],
-              [
-                7.1445991,
-                43.6422676
-              ],
-              [
-                7.1446662,
-                43.64219920000002
-              ],
-              [
-                7.1447573,
-                43.6421556
-              ],
-              [
-                7.1449076,
-                43.6421747
-              ],
-              [
-                7.1450696,
-                43.642132900000014
-              ],
-              [
-                7.1452402,
-                43.642142
-              ],
-              [
-                7.1453042,
-                43.642087900000014
-              ],
-              [
-                7.1452758,
-                43.642025900000014
-              ],
-              [
-                7.1452351,
-                43.6420004
-              ],
-              [
-                7.1447211,
-                43.641997400000015
-              ],
-              [
-                7.1443666,
-                43.6417004
-              ],
-              [
-                7.1443521,
-                43.64168270000002
-              ],
-              [
-                7.1443843,
-                43.64163
-              ],
-              [
-                7.1443686,
-                43.6415838
-              ],
-              [
-                7.1442857,
-                43.641557700000014
-              ],
-              [
-                7.1440836,
-                43.6413478
-              ],
-              [
-                7.1433865,
-                43.640539300000015
-              ],
-              [
-                7.1434595,
-                43.6404914
-              ],
-              [
-                7.1434762,
-                43.640436700000016
-              ],
-              [
-                7.1434012,
-                43.640387900000015
-              ],
-              [
-                7.1433555,
-                43.6403783
-              ],
-              [
-                7.1427884,
-                43.640662700000014
-              ],
-              [
-                7.142673595568084,
-                43.64076712682449
-              ],
-              [
-                7.144406681557844,
-                43.64232672948581
-              ],
-              [
-                7.1445395,
-                43.6423854
-              ]
-            ]
-          ],
-          [
-            [
-              [
-                7.1427759,
-                43.64059860000001
-              ],
-              [
-                7.1428266,
-                43.6405053
-              ],
-              [
-                7.1432311,
-                43.640265
-              ],
-              [
-                7.1432558,
-                43.64021090000002
-              ],
-              [
-                7.1431996,
-                43.64017250000001
-              ],
-              [
-                7.1431378,
-                43.64017590000001
-              ],
-              [
-                7.1428755,
-                43.6402568
-              ],
-              [
-                7.1426022,
-                43.6400738
-              ],
-              [
-                7.142133,
-                43.639394
-              ],
-              [
-                7.1414422,
-                43.638229
-              ],
-              [
-                7.1404935,
-                43.6367701
-              ],
-              [
-                7.1401381,
-                43.6360681
-              ],
-              [
-                7.1400834,
-                43.635841400000025
-              ],
-              [
-                7.1401014,
-                43.63555480000002
-              ],
-              [
-                7.1402288,
-                43.6353075
-              ],
-              [
-                7.14012785167056,
-                43.63518274772973
-              ],
-              [
-                7.139783601584829,
-                43.63543521241953
-              ],
-              [
-                7.139488881151935,
-                43.63591715403461
-              ],
-              [
-                7.139479617686286,
-                43.636093025854564
-              ],
-              [
-                7.1427755,
-                43.6406558
-              ],
-              [
-                7.1427759,
-                43.64059860000001
-              ]
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": 2156,
         "layer_name": "Cantonnement",
         "ref_reg": "Arrêté ministériel du 27 août 2019 portant renouvellement d'une réserve de pêche aux abords du littoral de la commune de Cagnes-sur-mer",
@@ -352659,370 +352439,6 @@
               [
                 7.147083333333333,
                 43.64548333333333
-              ]
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 3538,
-        "layer_name": "Dragage",
-        "ref_reg": "Récepissé de dépôt de déclaration Dragage du Loup et rechargement des plages pour 10 ans au titre des articles L.214-1 à L214-6 du Code de l'Environnement",
-        "source": "Récépissé",
-        "type": "Récépissé de dépôt",
-        "date": null,
-        "date_fin": null,
-        "resume": "Embouchure du Loup",
-        "facade": "MED",
-        "edition": null,
-        "poly_name": null,
-        "plan": "PSCEM",
-        "url": "http://extranet.legicem.metier.developpement-durable.gouv.fr/villeuneuve-loubet-a4416.html?id_rub=2081",
-        "_cacem_layer": "MED"
-      },
-      "geometry": {
-        "type": "MultiPolygon",
-        "coordinates": [
-          [
-            [
-              [
-                7.144122734812346,
-                43.643037774391395
-              ],
-              [
-                7.144416757903253,
-                43.64327101970488
-              ],
-              [
-                7.1444667,
-                43.64324469999978
-              ],
-              [
-                7.1445743,
-                43.64323219999979
-              ],
-              [
-                7.1448648,
-                43.64326039999982
-              ],
-              [
-                7.1450972,
-                43.64316119999979
-              ],
-              [
-                7.1452352,
-                43.64306359999979
-              ],
-              [
-                7.145413,
-                43.64289459999981
-              ],
-              [
-                7.1454667,
-                43.6429015999998
-              ],
-              [
-                7.1455388,
-                43.642839399999815
-              ],
-              [
-                7.1459433,
-                43.64234279999982
-              ],
-              [
-                7.1459788,
-                43.64228739999984
-              ],
-              [
-                7.1460073,
-                43.64218719999983
-              ],
-              [
-                7.1459705,
-                43.642071499999794
-              ],
-              [
-                7.145928,
-                43.642046199999804
-              ],
-              [
-                7.1459017,
-                43.64199299999978
-              ],
-              [
-                7.1459338,
-                43.641928699999795
-              ],
-              [
-                7.145979799999283,
-                43.641904600000075
-              ],
-              [
-                7.145228758905945,
-                43.64199697723143
-              ],
-              [
-                7.1452758,
-                43.642025899999794
-              ],
-              [
-                7.1453042,
-                43.642087899999815
-              ],
-              [
-                7.1452402,
-                43.642141999999794
-              ],
-              [
-                7.1451785,
-                43.642146999999795
-              ],
-              [
-                7.1451023,
-                43.64212209999979
-              ],
-              [
-                7.1449076,
-                43.6421746999998
-              ],
-              [
-                7.144782,
-                43.64215299999984
-              ],
-              [
-                7.1446662,
-                43.642199199999816
-              ],
-              [
-                7.1445991,
-                43.642267599999805
-              ],
-              [
-                7.1445399,
-                43.642365299999796
-              ],
-              [
-                7.1446329,
-                43.64258199999977
-              ],
-              [
-                7.1446088,
-                43.64260099999981
-              ],
-              [
-                7.1445653,
-                43.642701699999805
-              ],
-              [
-                7.1445082,
-                43.6427849999998
-              ],
-              [
-                7.1443946,
-                43.64288849999982
-              ],
-              [
-                7.144122734812346,
-                43.643037774391395
-              ]
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 441,
-        "layer_name": "APB Embouchure du fleuve Var",
-        "ref_reg": "Arrêté ministériel du 28 mai 2019 portant création d'une zone de protection de biotope dénommée \"Embouchure du Var\" ",
-        "source": "OFB",
-        "type": "Arrêté ministériel",
-        "date": "2019-05-28T00:00:00",
-        "date_fin": null,
-        "resume": "Accès interdit, à l'exception des pistes sur les crêtes de digue de Cap 3000 et de l'aéroport et une partie des enrochements et plage.\nAnimaux domestiques interdits, chiens tenus en laisse.\nPêche de loisir interdite y compris depuis les rives ou le rivage à pied.\nPêche professionnelle autorisée du 1er septembre au 28 février exclusivement avec autorisation.\nChasse terrestre interdite.\nActivités nautiques, mouillage, plongée sous-marine interdites.\nSurvol à une hauteur inférieure à 500m et dans un périmètre de 100 mètres autour interdit.",
-        "facade": "MED",
-        "edition": "2026-05-10T14:33:41.624",
-        "poly_name": "Secteur interdit sur le domaine public maritime",
-        "plan": "PSCEM, PIRC",
-        "url": "https://extranet.legicem.metier.developpement-durable.gouv.fr/embouchure-du-var-a6008.html",
-        "_cacem_layer": "MED"
-      },
-      "geometry": {
-        "type": "MultiPolygon",
-        "coordinates": [
-          [
-            [
-              [
-                7.198400045502411,
-                43.650580797876785
-              ],
-              [
-                7.19852007,
-                43.65450936
-              ],
-              [
-                7.198473643409498,
-                43.65456707542977
-              ],
-              [
-                7.19849653,
-                43.65580668
-              ],
-              [
-                7.19864349,
-                43.65579324
-              ],
-              [
-                7.1988507,
-                43.6558653
-              ],
-              [
-                7.19901098,
-                43.65599629
-              ],
-              [
-                7.199130964218777,
-                43.65615347385414
-              ],
-              [
-                7.201611381851954,
-                43.656514958492416
-              ],
-              [
-                7.20153603,
-                43.65611442
-              ],
-              [
-                7.20132828,
-                43.6554142
-              ],
-              [
-                7.20117952,
-                43.65497474
-              ],
-              [
-                7.2008999,
-                43.65430975
-              ],
-              [
-                7.2008527,
-                43.65415844
-              ],
-              [
-                7.20080487,
-                43.6538413
-              ],
-              [
-                7.20080511,
-                43.65371249
-              ],
-              [
-                7.20086661,
-                43.65344965
-              ],
-              [
-                7.20097325,
-                43.65322834
-              ],
-              [
-                7.20107953,
-                43.65291605
-              ],
-              [
-                7.20116254,
-                43.65284985
-              ],
-              [
-                7.20138985,
-                43.65271578
-              ],
-              [
-                7.20135837,
-                43.65269267
-              ],
-              [
-                7.20135964,
-                43.65265922
-              ],
-              [
-                7.20140816,
-                43.65264572
-              ],
-              [
-                7.20142905,
-                43.65265653
-              ],
-              [
-                7.20151038,
-                43.65258229
-              ],
-              [
-                7.20138603,
-                43.65251142
-              ],
-              [
-                7.20135879,
-                43.65248005
-              ],
-              [
-                7.20140042,
-                43.65243868
-              ],
-              [
-                7.20148992,
-                43.65244064
-              ],
-              [
-                7.20168221,
-                43.65255484
-              ],
-              [
-                7.20221265,
-                43.65217305
-              ],
-              [
-                7.20234151,
-                43.65212305
-              ],
-              [
-                7.20234871,
-                43.6520687
-              ],
-              [
-                7.20315794,
-                43.65147866
-              ],
-              [
-                7.20322194,
-                43.65151861
-              ],
-              [
-                7.20361096,
-                43.65122418
-              ],
-              [
-                7.20349202,
-                43.65112511
-              ],
-              [
-                7.20347905,
-                43.65104993
-              ],
-              [
-                7.20355849,
-                43.65066124
-              ],
-              [
-                7.2035048,
-                43.65050289
-              ],
-              [
-                7.198400045502411,
-                43.650580797876785
               ]
             ]
           ]
@@ -353267,6 +352683,202 @@
               [
                 7.201611381851954,
                 43.656514958492416
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 441,
+        "layer_name": "APB Embouchure du fleuve Var",
+        "ref_reg": "Arrêté ministériel du 28 mai 2019 portant création d'une zone de protection de biotope dénommée \"Embouchure du Var\" ",
+        "source": "OFB",
+        "type": "Arrêté ministériel",
+        "date": "2019-05-28T00:00:00",
+        "date_fin": null,
+        "resume": "Accès interdit, à l'exception des pistes sur les crêtes de digue de Cap 3000 et de l'aéroport et une partie des enrochements et plage.\nAnimaux domestiques interdits, chiens tenus en laisse.\nPêche de loisir interdite y compris depuis les rives ou le rivage à pied.\nPêche professionnelle autorisée du 1er septembre au 28 février exclusivement avec autorisation.\nChasse terrestre interdite.\nActivités nautiques, mouillage, plongée sous-marine interdites.\nSurvol à une hauteur inférieure à 500m et dans un périmètre de 100 mètres autour interdit.",
+        "facade": "MED",
+        "edition": "2026-05-10T14:33:41.624",
+        "poly_name": "Secteur interdit sur le domaine public maritime",
+        "plan": "PSCEM, PIRC",
+        "url": "https://extranet.legicem.metier.developpement-durable.gouv.fr/embouchure-du-var-a6008.html",
+        "_cacem_layer": "MED"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                7.198400045502411,
+                43.650580797876785
+              ],
+              [
+                7.19852007,
+                43.65450936
+              ],
+              [
+                7.198473643409498,
+                43.65456707542977
+              ],
+              [
+                7.19849653,
+                43.65580668
+              ],
+              [
+                7.19864349,
+                43.65579324
+              ],
+              [
+                7.1988507,
+                43.6558653
+              ],
+              [
+                7.19901098,
+                43.65599629
+              ],
+              [
+                7.199130964218777,
+                43.65615347385414
+              ],
+              [
+                7.201611381851954,
+                43.656514958492416
+              ],
+              [
+                7.20153603,
+                43.65611442
+              ],
+              [
+                7.20132828,
+                43.6554142
+              ],
+              [
+                7.20117952,
+                43.65497474
+              ],
+              [
+                7.2008999,
+                43.65430975
+              ],
+              [
+                7.2008527,
+                43.65415844
+              ],
+              [
+                7.20080487,
+                43.6538413
+              ],
+              [
+                7.20080511,
+                43.65371249
+              ],
+              [
+                7.20086661,
+                43.65344965
+              ],
+              [
+                7.20097325,
+                43.65322834
+              ],
+              [
+                7.20107953,
+                43.65291605
+              ],
+              [
+                7.20116254,
+                43.65284985
+              ],
+              [
+                7.20138985,
+                43.65271578
+              ],
+              [
+                7.20135837,
+                43.65269267
+              ],
+              [
+                7.20135964,
+                43.65265922
+              ],
+              [
+                7.20140816,
+                43.65264572
+              ],
+              [
+                7.20142905,
+                43.65265653
+              ],
+              [
+                7.20151038,
+                43.65258229
+              ],
+              [
+                7.20138603,
+                43.65251142
+              ],
+              [
+                7.20135879,
+                43.65248005
+              ],
+              [
+                7.20140042,
+                43.65243868
+              ],
+              [
+                7.20148992,
+                43.65244064
+              ],
+              [
+                7.20168221,
+                43.65255484
+              ],
+              [
+                7.20221265,
+                43.65217305
+              ],
+              [
+                7.20234151,
+                43.65212305
+              ],
+              [
+                7.20234871,
+                43.6520687
+              ],
+              [
+                7.20315794,
+                43.65147866
+              ],
+              [
+                7.20322194,
+                43.65151861
+              ],
+              [
+                7.20361096,
+                43.65122418
+              ],
+              [
+                7.20349202,
+                43.65112511
+              ],
+              [
+                7.20347905,
+                43.65104993
+              ],
+              [
+                7.20355849,
+                43.65066124
+              ],
+              [
+                7.2035048,
+                43.65050289
+              ],
+              [
+                7.198400045502411,
+                43.650580797876785
               ]
             ]
           ]
@@ -525636,13 +525248,401 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3539,
+        "layer_name": "Rechargement",
+        "ref_reg": "Récepissé de dépôt de déclaration Dragage du Loup et rechargement des plages pour 10 ans au titre des articles L.214-1 à L214-6 du Code de l'Environnement",
+        "source": "Récépissé",
+        "type": "Récépissé de dépôt",
+        "date": null,
+        "date_fin": null,
+        "resume": "Plages du Loup, du centre nautique et de la Fighière",
+        "facade": "MED",
+        "edition": null,
+        "poly_name": null,
+        "plan": "PSCEM",
+        "url": "http://extranet.legicem.metier.developpement-durable.gouv.fr/villeuneuve-loubet-a4416.html?id_rub=2081",
+        "_cacem_layer": "MED"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                7.1445395,
+                43.6423854
+              ],
+              [
+                7.1445991,
+                43.6422676
+              ],
+              [
+                7.1446662,
+                43.64219920000002
+              ],
+              [
+                7.1447573,
+                43.6421556
+              ],
+              [
+                7.1449076,
+                43.6421747
+              ],
+              [
+                7.1450696,
+                43.642132900000014
+              ],
+              [
+                7.1452402,
+                43.642142
+              ],
+              [
+                7.1453042,
+                43.642087900000014
+              ],
+              [
+                7.1452758,
+                43.642025900000014
+              ],
+              [
+                7.1452351,
+                43.6420004
+              ],
+              [
+                7.1447211,
+                43.641997400000015
+              ],
+              [
+                7.1443666,
+                43.6417004
+              ],
+              [
+                7.1443521,
+                43.64168270000002
+              ],
+              [
+                7.1443843,
+                43.64163
+              ],
+              [
+                7.1443686,
+                43.6415838
+              ],
+              [
+                7.1442857,
+                43.641557700000014
+              ],
+              [
+                7.1440836,
+                43.6413478
+              ],
+              [
+                7.1433865,
+                43.640539300000015
+              ],
+              [
+                7.1434595,
+                43.6404914
+              ],
+              [
+                7.1434762,
+                43.640436700000016
+              ],
+              [
+                7.1434012,
+                43.640387900000015
+              ],
+              [
+                7.1433555,
+                43.6403783
+              ],
+              [
+                7.1427884,
+                43.640662700000014
+              ],
+              [
+                7.142673595568084,
+                43.64076712682449
+              ],
+              [
+                7.144406681557844,
+                43.64232672948581
+              ],
+              [
+                7.1445395,
+                43.6423854
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                7.1427759,
+                43.64059860000001
+              ],
+              [
+                7.1428266,
+                43.6405053
+              ],
+              [
+                7.1432311,
+                43.640265
+              ],
+              [
+                7.1432558,
+                43.64021090000002
+              ],
+              [
+                7.1431996,
+                43.64017250000001
+              ],
+              [
+                7.1431378,
+                43.64017590000001
+              ],
+              [
+                7.1428755,
+                43.6402568
+              ],
+              [
+                7.1426022,
+                43.6400738
+              ],
+              [
+                7.142133,
+                43.639394
+              ],
+              [
+                7.1414422,
+                43.638229
+              ],
+              [
+                7.1404935,
+                43.6367701
+              ],
+              [
+                7.1401381,
+                43.6360681
+              ],
+              [
+                7.1400834,
+                43.635841400000025
+              ],
+              [
+                7.1401014,
+                43.63555480000002
+              ],
+              [
+                7.1402288,
+                43.6353075
+              ],
+              [
+                7.14012785167056,
+                43.63518274772973
+              ],
+              [
+                7.139783601584829,
+                43.63543521241953
+              ],
+              [
+                7.139488881151935,
+                43.63591715403461
+              ],
+              [
+                7.139479617686286,
+                43.636093025854564
+              ],
+              [
+                7.1427755,
+                43.6406558
+              ],
+              [
+                7.1427759,
+                43.64059860000001
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3538,
+        "layer_name": "Dragage",
+        "ref_reg": "Récepissé de dépôt de déclaration Dragage du Loup et rechargement des plages pour 10 ans au titre des articles L.214-1 à L214-6 du Code de l'Environnement",
+        "source": "Récépissé",
+        "type": "Récépissé de dépôt",
+        "date": null,
+        "date_fin": null,
+        "resume": "Embouchure du Loup",
+        "facade": "MED",
+        "edition": null,
+        "poly_name": null,
+        "plan": "PSCEM",
+        "url": "http://extranet.legicem.metier.developpement-durable.gouv.fr/villeuneuve-loubet-a4416.html?id_rub=2081",
+        "_cacem_layer": "MED"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                7.144122734812346,
+                43.643037774391395
+              ],
+              [
+                7.144416757903253,
+                43.64327101970488
+              ],
+              [
+                7.1444667,
+                43.64324469999978
+              ],
+              [
+                7.1445743,
+                43.64323219999979
+              ],
+              [
+                7.1448648,
+                43.64326039999982
+              ],
+              [
+                7.1450972,
+                43.64316119999979
+              ],
+              [
+                7.1452352,
+                43.64306359999979
+              ],
+              [
+                7.145413,
+                43.64289459999981
+              ],
+              [
+                7.1454667,
+                43.6429015999998
+              ],
+              [
+                7.1455388,
+                43.642839399999815
+              ],
+              [
+                7.1459433,
+                43.64234279999982
+              ],
+              [
+                7.1459788,
+                43.64228739999984
+              ],
+              [
+                7.1460073,
+                43.64218719999983
+              ],
+              [
+                7.1459705,
+                43.642071499999794
+              ],
+              [
+                7.145928,
+                43.642046199999804
+              ],
+              [
+                7.1459017,
+                43.64199299999978
+              ],
+              [
+                7.1459338,
+                43.641928699999795
+              ],
+              [
+                7.145979799999283,
+                43.641904600000075
+              ],
+              [
+                7.145228758905945,
+                43.64199697723143
+              ],
+              [
+                7.1452758,
+                43.642025899999794
+              ],
+              [
+                7.1453042,
+                43.642087899999815
+              ],
+              [
+                7.1452402,
+                43.642141999999794
+              ],
+              [
+                7.1451785,
+                43.642146999999795
+              ],
+              [
+                7.1451023,
+                43.64212209999979
+              ],
+              [
+                7.1449076,
+                43.6421746999998
+              ],
+              [
+                7.144782,
+                43.64215299999984
+              ],
+              [
+                7.1446662,
+                43.642199199999816
+              ],
+              [
+                7.1445991,
+                43.642267599999805
+              ],
+              [
+                7.1445399,
+                43.642365299999796
+              ],
+              [
+                7.1446329,
+                43.64258199999977
+              ],
+              [
+                7.1446088,
+                43.64260099999981
+              ],
+              [
+                7.1445653,
+                43.642701699999805
+              ],
+              [
+                7.1445082,
+                43.6427849999998
+              ],
+              [
+                7.1443946,
+                43.64288849999982
+              ],
+              [
+                7.144122734812346,
+                43.643037774391395
+              ]
+            ]
+          ]
+        ]
+      }
     }
   ],
   "marine_meta": {
     "source": "CACEM / Ministère de la Transition écologique",
     "source_url": "https://www.data.gouv.fr/datasets/zones-reglementaires-cacem",
     "resource_url": "https://www.data.gouv.fr/api/1/datasets/r/dd48b545-a1d1-4710-9e56-415b895f5336",
-    "generated_at": "2026-10-26T09:39:53+00:00",
+    "generated_at": "2026-11-02T11:37:31+00:00",
     "license": "Licence Ouverte 2.0",
     "warning": "Les tracés CACEM sont une interprétation. Seuls les textes réglementaires font foi.",
     "layers": {
