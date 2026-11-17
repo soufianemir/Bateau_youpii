@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T07:58:40+00:00",
+  "generated_at": "2026-11-17T20:58:57+00:00",
   "area": {
     "bbox": [
       6.8,
@@ -14,44 +14,44 @@
       "source": "AVURNAV",
       "ok": true,
       "count": 0,
-      "updated_at": "2026-11-17T07:58:21+00:00"
+      "updated_at": "2026-11-17T20:58:12+00:00"
     },
     {
       "source": "SHOM achare_polygon",
       "ok": true,
       "count": 13,
-      "updated_at": "2026-11-17T07:58:22+00:00"
+      "updated_at": "2026-11-17T20:58:13+00:00"
     },
     {
       "source": "SHOM resare_polygon",
       "ok": true,
       "count": 43,
-      "updated_at": "2026-11-17T07:58:24+00:00"
+      "updated_at": "2026-11-17T20:58:15+00:00"
     },
     {
       "source": "SHOM fairwy_polygon",
       "ok": true,
       "count": 3,
-      "updated_at": "2026-11-17T07:58:24+00:00"
+      "updated_at": "2026-11-17T20:58:15+00:00"
     },
     {
       "source": "Nature du fond",
       "ok": false,
       "skipped": true,
       "note": "Source automatique non branchée : le WFS SHOM testé exige une authentification. Aucune nature de fond n'est inventée.",
-      "updated_at": "2026-11-17T07:58:24+00:00"
+      "updated_at": "2026-11-17T20:58:15+00:00"
     },
     {
       "source": "Sentinel-2 optique",
-      "ok": false,
-      "error": "GET failed after 3 attempts: https://stac.dataspace.copernicus.eu/v1/search?collections=sentinel-2-l2a&bbox=6.8%2C43.45%2C7.22%2C43.68&datetime=2026-11-03T07%3A58%3A24.971775%2B00%3A00%2F2026-11-17T07%3A58%3A24.971775%2B00%3A00&limit=8&sortby=-datetime: Expecting value: line 1 column 1 (char 0)",
-      "updated_at": "2026-11-17T07:58:30+00:00"
+      "ok": true,
+      "count": 8,
+      "updated_at": "2026-11-17T20:58:19+00:00"
     },
     {
       "source": "Sentinel-1 radar",
-      "ok": false,
-      "error": "GET failed after 3 attempts: https://stac.dataspace.copernicus.eu/v1/search?collections=sentinel-1-grd&bbox=6.8%2C43.45%2C7.22%2C43.68&datetime=2026-11-03T07%3A58%3A30.211405%2B00%3A00%2F2026-11-17T07%3A58%3A30.211405%2B00%3A00&limit=8&sortby=-datetime: Expecting value: line 1 column 1 (char 0)",
-      "updated_at": "2026-11-17T07:58:35+00:00"
+      "ok": true,
+      "count": 8,
+      "updated_at": "2026-11-17T20:58:19+00:00"
     }
   ],
   "cacem": {
