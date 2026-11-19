@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "achare_polygon.27",
+      "id": "achare_polygon.fid-7db6cc3e_1a1f56e11ed_-4c63",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4341,6 +4341,7 @@
       },
       "geometry_name": "geometry",
       "properties": {
+        "pgid": 27,
         "inspireid": "FR000035832000003",
         "catach": "8",
         "restrn": "2",
@@ -4355,7 +4356,7 @@
     },
     {
       "type": "Feature",
-      "id": "achare_polygon.471",
+      "id": "achare_polygon.fid-7db6cc3e_1a1f56e11ed_-4c62",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4385,6 +4386,7 @@
       },
       "geometry_name": "geometry",
       "properties": {
+        "pgid": 471,
         "inspireid": "FR000016564800003",
         "catach": null,
         "restrn": "2",
@@ -4399,7 +4401,7 @@
     },
     {
       "type": "Feature",
-      "id": "achare_polygon.119",
+      "id": "achare_polygon.fid-7db6cc3e_1a1f56e11ed_-4c61",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4457,6 +4459,7 @@
       },
       "geometry_name": "geometry",
       "properties": {
+        "pgid": 119,
         "inspireid": "FR000049890900003",
         "catach": null,
         "restrn": null,
@@ -4471,7 +4474,7 @@
     },
     {
       "type": "Feature",
-      "id": "achare_polygon.120",
+      "id": "achare_polygon.fid-7db6cc3e_1a1f56e11ed_-4c60",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4513,6 +4516,7 @@
       },
       "geometry_name": "geometry",
       "properties": {
+        "pgid": 120,
         "inspireid": "FR000049890500003",
         "catach": null,
         "restrn": null,
@@ -4527,7 +4531,7 @@
     },
     {
       "type": "Feature",
-      "id": "achare_polygon.121",
+      "id": "achare_polygon.fid-7db6cc3e_1a1f56e11ed_-4c5f",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4577,6 +4581,7 @@
       },
       "geometry_name": "geometry",
       "properties": {
+        "pgid": 121,
         "inspireid": "FR000049890800003",
         "catach": null,
         "restrn": null,
@@ -4591,7 +4596,7 @@
     },
     {
       "type": "Feature",
-      "id": "achare_polygon.122",
+      "id": "achare_polygon.fid-7db6cc3e_1a1f56e11ed_-4c5e",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4917,6 +4922,7 @@
       },
       "geometry_name": "geometry",
       "properties": {
+        "pgid": 122,
         "inspireid": "FR000050749600003",
         "catach": null,
         "restrn": "2",
@@ -4931,7 +4937,7 @@
     },
     {
       "type": "Feature",
-      "id": "achare_polygon.123",
+      "id": "achare_polygon.fid-7db6cc3e_1a1f56e11ed_-4c5d",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5393,6 +5399,7 @@
       },
       "geometry_name": "geometry",
       "properties": {
+        "pgid": 123,
         "inspireid": "FR000050759600003",
         "catach": null,
         "restrn": "2",
@@ -5407,7 +5414,7 @@
     },
     {
       "type": "Feature",
-      "id": "achare_polygon.124",
+      "id": "achare_polygon.fid-7db6cc3e_1a1f56e11ed_-4c5c",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5881,6 +5888,7 @@
       },
       "geometry_name": "geometry",
       "properties": {
+        "pgid": 124,
         "inspireid": "FR000050759400003",
         "catach": null,
         "restrn": "2",
@@ -5895,7 +5903,7 @@
     },
     {
       "type": "Feature",
-      "id": "achare_polygon.125",
+      "id": "achare_polygon.fid-7db6cc3e_1a1f56e11ed_-4c5b",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5957,6 +5965,7 @@
       },
       "geometry_name": "geometry",
       "properties": {
+        "pgid": 125,
         "inspireid": "FR000049891000003",
         "catach": null,
         "restrn": null,
@@ -5971,7 +5980,7 @@
     },
     {
       "type": "Feature",
-      "id": "achare_polygon.126",
+      "id": "achare_polygon.fid-7db6cc3e_1a1f56e11ed_-4c5a",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8753,6 +8762,7 @@
       },
       "geometry_name": "geometry",
       "properties": {
+        "pgid": 126,
         "inspireid": "FR000050749500003",
         "catach": null,
         "restrn": "2",
@@ -8767,7 +8777,7 @@
     },
     {
       "type": "Feature",
-      "id": "achare_polygon.271",
+      "id": "achare_polygon.fid-7db6cc3e_1a1f56e11ed_-4c59",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -9941,6 +9951,7 @@
       },
       "geometry_name": "geometry",
       "properties": {
+        "pgid": 271,
         "inspireid": "FR000050750700003",
         "catach": null,
         "restrn": "2",
@@ -9955,7 +9966,7 @@
     },
     {
       "type": "Feature",
-      "id": "achare_polygon.1184",
+      "id": "achare_polygon.fid-7db6cc3e_1a1f56e11ed_-4c58",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -10013,6 +10024,7 @@
       },
       "geometry_name": "geometry",
       "properties": {
+        "pgid": 1184,
         "inspireid": "FR000014613600001",
         "catach": "8",
         "restrn": "1",
@@ -10027,7 +10039,7 @@
     },
     {
       "type": "Feature",
-      "id": "achare_polygon.1185",
+      "id": "achare_polygon.fid-7db6cc3e_1a1f56e11ed_-4c57",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -10061,6 +10073,7 @@
       },
       "geometry_name": "geometry",
       "properties": {
+        "pgid": 1185,
         "inspireid": "FR000047086000003",
         "catach": "8",
         "restrn": "27,3,11",
@@ -10077,7 +10090,7 @@
   "totalFeatures": 13,
   "numberMatched": 13,
   "numberReturned": 13,
-  "timeStamp": "2026-11-19T07:30:06.949Z",
+  "timeStamp": "2026-11-19T20:40:53.912Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -10087,7 +10100,7 @@
   "marine_meta": {
     "source": "Shom",
     "type_name": "REGLEMENTATION_NAVIGATION_BDD_WFS:achare_polygon",
-    "generated_at": "2026-11-19T07:30:07+00:00",
+    "generated_at": "2026-11-19T20:40:54+00:00",
     "license": "Licence Ouverte 2.0"
   }
 }

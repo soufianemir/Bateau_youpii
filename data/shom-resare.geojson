@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "resare_polygon.60",
+      "id": "resare_polygon.fid-28d4d3a8_1a1f5600f7d_-74c",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -161,6 +161,7 @@
       },
       "geometry_name": "geometry",
       "properties": {
+        "pgid": 60,
         "inspireid": "FR000016440500001",
         "catrea": null,
         "restrn": "1,11,3,5,9",
@@ -175,7 +176,7 @@
     },
     {
       "type": "Feature",
-      "id": "resare_polygon.65",
+      "id": "resare_polygon.fid-28d4d3a8_1a1f5600f7d_-74b",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -293,6 +294,7 @@
       },
       "geometry_name": "geometry",
       "properties": {
+        "pgid": 65,
         "inspireid": "FR000034006800003",
         "catrea": null,
         "restrn": "1,7,11,3",
@@ -307,7 +309,7 @@
     },
     {
       "type": "Feature",
-      "id": "resare_polygon.296",
+      "id": "resare_polygon.fid-28d4d3a8_1a1f5600f7d_-74a",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -17329,6 +17331,7 @@
       },
       "geometry_name": "geometry",
       "properties": {
+        "pgid": 296,
         "inspireid": "FR000015537500001",
         "catrea": null,
         "restrn": "8",
@@ -17343,7 +17346,7 @@
     },
     {
       "type": "Feature",
-      "id": "resare_polygon.297",
+      "id": "resare_polygon.fid-28d4d3a8_1a1f5600f7d_-749",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -19233,6 +19236,7 @@
       },
       "geometry_name": "geometry",
       "properties": {
+        "pgid": 297,
         "inspireid": "FR000034105200003",
         "catrea": null,
         "restrn": "8",
@@ -19247,7 +19251,7 @@
     },
     {
       "type": "Feature",
-      "id": "resare_polygon.295",
+      "id": "resare_polygon.fid-28d4d3a8_1a1f5600f7d_-748",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -20029,6 +20033,7 @@
       },
       "geometry_name": "geometry",
       "properties": {
+        "pgid": 295,
         "inspireid": "FR000047030600003",
         "catrea": null,
         "restrn": "8,1,11",
@@ -20043,7 +20048,7 @@
     },
     {
       "type": "Feature",
-      "id": "resare_polygon.298",
+      "id": "resare_polygon.fid-28d4d3a8_1a1f5600f7d_-747",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -20833,6 +20838,7 @@
       },
       "geometry_name": "geometry",
       "properties": {
+        "pgid": 298,
         "inspireid": "FR000029905600003",
         "catrea": null,
         "restrn": "8",
@@ -20847,7 +20853,7 @@
     },
     {
       "type": "Feature",
-      "id": "resare_polygon.294",
+      "id": "resare_polygon.fid-28d4d3a8_1a1f5600f7d_-746",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -21009,6 +21015,7 @@
       },
       "geometry_name": "geometry",
       "properties": {
+        "pgid": 294,
         "inspireid": "FR000008613100001",
         "catrea": null,
         "restrn": "2",
@@ -21023,7 +21030,7 @@
     },
     {
       "type": "Feature",
-      "id": "resare_polygon.557",
+      "id": "resare_polygon.fid-28d4d3a8_1a1f5600f7d_-745",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -21365,6 +21372,7 @@
       },
       "geometry_name": "geometry",
       "properties": {
+        "pgid": 557,
         "inspireid": "FR000008627700001",
         "catrea": null,
         "restrn": "11",
@@ -21379,7 +21387,7 @@
     },
     {
       "type": "Feature",
-      "id": "resare_polygon.559",
+      "id": "resare_polygon.fid-28d4d3a8_1a1f5600f7d_-744",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -25049,6 +25057,7 @@
       },
       "geometry_name": "geometry",
       "properties": {
+        "pgid": 559,
         "inspireid": "FR000034105300003",
         "catrea": null,
         "restrn": "8",
@@ -25063,7 +25072,7 @@
     },
     {
       "type": "Feature",
-      "id": "resare_polygon.567",
+      "id": "resare_polygon.fid-28d4d3a8_1a1f5600f7d_-743",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -26337,6 +26346,7 @@
       },
       "geometry_name": "geometry",
       "properties": {
+        "pgid": 567,
         "inspireid": "FR000034007000003",
         "catrea": null,
         "restrn": "1,7,11",
@@ -26351,7 +26361,7 @@
     },
     {
       "type": "Feature",
-      "id": "resare_polygon.570",
+      "id": "resare_polygon.fid-28d4d3a8_1a1f5600f7d_-742",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -27117,6 +27127,7 @@
       },
       "geometry_name": "geometry",
       "properties": {
+        "pgid": 570,
         "inspireid": "FR000009997100003",
         "catrea": null,
         "restrn": "1,7,11",
@@ -27131,7 +27142,7 @@
     },
     {
       "type": "Feature",
-      "id": "resare_polygon.571",
+      "id": "resare_polygon.fid-28d4d3a8_1a1f5600f7d_-741",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -30953,6 +30964,7 @@
       },
       "geometry_name": "geometry",
       "properties": {
+        "pgid": 571,
         "inspireid": "FR000008612400001",
         "catrea": null,
         "restrn": "27,2,12",
@@ -30967,7 +30979,7 @@
     },
     {
       "type": "Feature",
-      "id": "resare_polygon.921",
+      "id": "resare_polygon.fid-28d4d3a8_1a1f5600f7d_-740",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -31237,6 +31249,7 @@
       },
       "geometry_name": "geometry",
       "properties": {
+        "pgid": 921,
         "inspireid": "FR000034015300003",
         "catrea": "4",
         "restrn": "1,3,7",
@@ -31251,7 +31264,7 @@
     },
     {
       "type": "Feature",
-      "id": "resare_polygon.922",
+      "id": "resare_polygon.fid-28d4d3a8_1a1f5600f7d_-73f",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -31313,6 +31326,7 @@
       },
       "geometry_name": "geometry",
       "properties": {
+        "pgid": 922,
         "inspireid": "FR000034007100003",
         "catrea": null,
         "restrn": "2,8",
@@ -31327,7 +31341,7 @@
     },
     {
       "type": "Feature",
-      "id": "resare_polygon.924",
+      "id": "resare_polygon.fid-28d4d3a8_1a1f5600f7d_-73e",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -31409,6 +31423,7 @@
       },
       "geometry_name": "geometry",
       "properties": {
+        "pgid": 924,
         "inspireid": "FR000034007300003",
         "catrea": null,
         "restrn": "2,8",
@@ -31423,7 +31438,7 @@
     },
     {
       "type": "Feature",
-      "id": "resare_polygon.907",
+      "id": "resare_polygon.fid-28d4d3a8_1a1f5600f7d_-73d",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -31453,6 +31468,7 @@
       },
       "geometry_name": "geometry",
       "properties": {
+        "pgid": 907,
         "inspireid": "FR000020985400003",
         "catrea": null,
         "restrn": "1,9,11",
@@ -31467,7 +31483,7 @@
     },
     {
       "type": "Feature",
-      "id": "resare_polygon.920",
+      "id": "resare_polygon.fid-28d4d3a8_1a1f5600f7d_-73c",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -31621,6 +31637,7 @@
       },
       "geometry_name": "geometry",
       "properties": {
+        "pgid": 920,
         "inspireid": "FR000034006900003",
         "catrea": null,
         "restrn": "1,7,11,3",
@@ -31635,7 +31652,7 @@
     },
     {
       "type": "Feature",
-      "id": "resare_polygon.912",
+      "id": "resare_polygon.fid-28d4d3a8_1a1f5600f7d_-73b",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -33161,6 +33178,7 @@
       },
       "geometry_name": "geometry",
       "properties": {
+        "pgid": 912,
         "inspireid": "FR000012980100001",
         "catrea": null,
         "restrn": "1",
@@ -33175,7 +33193,7 @@
     },
     {
       "type": "Feature",
-      "id": "resare_polygon.913",
+      "id": "resare_polygon.fid-28d4d3a8_1a1f5600f7d_-73a",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -33205,6 +33223,7 @@
       },
       "geometry_name": "geometry",
       "properties": {
+        "pgid": 913,
         "inspireid": "FR000009784900003",
         "catrea": null,
         "restrn": "1",
@@ -33219,7 +33238,7 @@
     },
     {
       "type": "Feature",
-      "id": "resare_polygon.916",
+      "id": "resare_polygon.fid-28d4d3a8_1a1f5600f7d_-739",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -33245,6 +33264,7 @@
       },
       "geometry_name": "geometry",
       "properties": {
+        "pgid": 916,
         "inspireid": "FR000009785400003",
         "catrea": null,
         "restrn": "1",
@@ -33259,7 +33279,7 @@
     },
     {
       "type": "Feature",
-      "id": "resare_polygon.917",
+      "id": "resare_polygon.fid-28d4d3a8_1a1f5600f7d_-738",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -33285,6 +33305,7 @@
       },
       "geometry_name": "geometry",
       "properties": {
+        "pgid": 917,
         "inspireid": "FR000009785700003",
         "catrea": null,
         "restrn": "1",
@@ -33299,7 +33320,7 @@
     },
     {
       "type": "Feature",
-      "id": "resare_polygon.918",
+      "id": "resare_polygon.fid-28d4d3a8_1a1f5600f7d_-737",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -33325,6 +33346,7 @@
       },
       "geometry_name": "geometry",
       "properties": {
+        "pgid": 918,
         "inspireid": "FR000009785500003",
         "catrea": null,
         "restrn": "1",
@@ -33339,7 +33361,7 @@
     },
     {
       "type": "Feature",
-      "id": "resare_polygon.919",
+      "id": "resare_polygon.fid-28d4d3a8_1a1f5600f7d_-736",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -33481,6 +33503,7 @@
       },
       "geometry_name": "geometry",
       "properties": {
+        "pgid": 919,
         "inspireid": "FR000034015200003",
         "catrea": "4",
         "restrn": "1,3,7",
@@ -33495,7 +33518,7 @@
     },
     {
       "type": "Feature",
-      "id": "resare_polygon.925",
+      "id": "resare_polygon.fid-28d4d3a8_1a1f5600f7d_-735",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -33861,6 +33884,7 @@
       },
       "geometry_name": "geometry",
       "properties": {
+        "pgid": 925,
         "inspireid": "FR000034007400003",
         "catrea": null,
         "restrn": "2,8",
@@ -33875,7 +33899,7 @@
     },
     {
       "type": "Feature",
-      "id": "resare_polygon.926",
+      "id": "resare_polygon.fid-28d4d3a8_1a1f5600f7d_-734",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -34081,6 +34105,7 @@
       },
       "geometry_name": "geometry",
       "properties": {
+        "pgid": 926,
         "inspireid": "FR000034007500003",
         "catrea": null,
         "restrn": "2,8",
@@ -34095,7 +34120,7 @@
     },
     {
       "type": "Feature",
-      "id": "resare_polygon.927",
+      "id": "resare_polygon.fid-28d4d3a8_1a1f5600f7d_-733",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -34501,6 +34526,7 @@
       },
       "geometry_name": "geometry",
       "properties": {
+        "pgid": 927,
         "inspireid": "FR000034007600003",
         "catrea": null,
         "restrn": "2,8",
@@ -34515,7 +34541,7 @@
     },
     {
       "type": "Feature",
-      "id": "resare_polygon.928",
+      "id": "resare_polygon.fid-28d4d3a8_1a1f5600f7d_-732",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -34545,6 +34571,7 @@
       },
       "geometry_name": "geometry",
       "properties": {
+        "pgid": 928,
         "inspireid": "FR000034007700003",
         "catrea": null,
         "restrn": "2,8",
@@ -34559,7 +34586,7 @@
     },
     {
       "type": "Feature",
-      "id": "resare_polygon.1244",
+      "id": "resare_polygon.fid-28d4d3a8_1a1f5600f7d_-731",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -34961,6 +34988,7 @@
       },
       "geometry_name": "geometry",
       "properties": {
+        "pgid": 1244,
         "inspireid": "FR000008630800001",
         "catrea": null,
         "restrn": "1",
@@ -34975,7 +35003,7 @@
     },
     {
       "type": "Feature",
-      "id": "resare_polygon.1245",
+      "id": "resare_polygon.fid-28d4d3a8_1a1f5600f7d_-730",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -37049,6 +37077,7 @@
       },
       "geometry_name": "geometry",
       "properties": {
+        "pgid": 1245,
         "inspireid": "FR000046873500003",
         "catrea": null,
         "restrn": "7",
@@ -37063,7 +37092,7 @@
     },
     {
       "type": "Feature",
-      "id": "resare_polygon.1246",
+      "id": "resare_polygon.fid-28d4d3a8_1a1f5600f7d_-72f",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -37101,6 +37130,7 @@
       },
       "geometry_name": "geometry",
       "properties": {
+        "pgid": 1246,
         "inspireid": "FR000046877400003",
         "catrea": null,
         "restrn": "1",
@@ -37115,7 +37145,7 @@
     },
     {
       "type": "Feature",
-      "id": "resare_polygon.1247",
+      "id": "resare_polygon.fid-28d4d3a8_1a1f5600f7d_-72e",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -37145,6 +37175,7 @@
       },
       "geometry_name": "geometry",
       "properties": {
+        "pgid": 1247,
         "inspireid": "FR000049940300003",
         "catrea": null,
         "restrn": "3,11",
@@ -37159,7 +37190,7 @@
     },
     {
       "type": "Feature",
-      "id": "resare_polygon.1250",
+      "id": "resare_polygon.fid-28d4d3a8_1a1f5600f7d_-72d",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -39557,6 +39588,7 @@
       },
       "geometry_name": "geometry",
       "properties": {
+        "pgid": 1250,
         "inspireid": "FR000016227100001",
         "catrea": null,
         "restrn": "1",
@@ -39571,7 +39603,7 @@
     },
     {
       "type": "Feature",
-      "id": "resare_polygon.1253",
+      "id": "resare_polygon.fid-28d4d3a8_1a1f5600f7d_-72c",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -39605,6 +39637,7 @@
       },
       "geometry_name": "geometry",
       "properties": {
+        "pgid": 1253,
         "inspireid": "FR000050510600003",
         "catrea": null,
         "restrn": "8,4",
@@ -39619,7 +39652,7 @@
     },
     {
       "type": "Feature",
-      "id": "resare_polygon.35",
+      "id": "resare_polygon.fid-28d4d3a8_1a1f5600f7d_-72b",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -39797,6 +39830,7 @@
       },
       "geometry_name": "geometry",
       "properties": {
+        "pgid": 35,
         "inspireid": "FR000012991000001",
         "catrea": "23",
         "restrn": null,
@@ -39811,7 +39845,7 @@
     },
     {
       "type": "Feature",
-      "id": "resare_polygon.903",
+      "id": "resare_polygon.fid-28d4d3a8_1a1f5600f7d_-72a",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -53265,6 +53299,7 @@
       },
       "geometry_name": "geometry",
       "properties": {
+        "pgid": 903,
         "inspireid": "FR000027927600003",
         "catrea": null,
         "restrn": "27",
@@ -53279,7 +53314,7 @@
     },
     {
       "type": "Feature",
-      "id": "resare_polygon.904",
+      "id": "resare_polygon.fid-28d4d3a8_1a1f5600f7d_-729",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -55389,6 +55424,7 @@
       },
       "geometry_name": "geometry",
       "properties": {
+        "pgid": 904,
         "inspireid": "FR000027927500003",
         "catrea": null,
         "restrn": "27",
@@ -55403,7 +55439,7 @@
     },
     {
       "type": "Feature",
-      "id": "resare_polygon.1248",
+      "id": "resare_polygon.fid-28d4d3a8_1a1f5600f7d_-728",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -55897,6 +55933,7 @@
       },
       "geometry_name": "geometry",
       "properties": {
+        "pgid": 1248,
         "inspireid": "FR000029905800003",
         "catrea": null,
         "restrn": "7,1,11",
@@ -55911,7 +55948,7 @@
     },
     {
       "type": "Feature",
-      "id": "resare_polygon.1251",
+      "id": "resare_polygon.fid-28d4d3a8_1a1f5600f7d_-727",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -58095,6 +58132,7 @@
       },
       "geometry_name": "geometry",
       "properties": {
+        "pgid": 1251,
         "inspireid": "FR000047085900003",
         "catrea": null,
         "restrn": "1",
@@ -58109,7 +58147,7 @@
     },
     {
       "type": "Feature",
-      "id": "resare_polygon.1252",
+      "id": "resare_polygon.fid-28d4d3a8_1a1f5600f7d_-726",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -58287,6 +58325,7 @@
       },
       "geometry_name": "geometry",
       "properties": {
+        "pgid": 1252,
         "inspireid": "FR000050510700003",
         "catrea": null,
         "restrn": "8",
@@ -58301,7 +58340,7 @@
     },
     {
       "type": "Feature",
-      "id": "resare_polygon.572",
+      "id": "resare_polygon.fid-28d4d3a8_1a1f5600f7d_-725",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -61109,6 +61148,7 @@
       },
       "geometry_name": "geometry",
       "properties": {
+        "pgid": 572,
         "inspireid": "FR000013246900001",
         "catrea": "22",
         "restrn": "3",
@@ -61123,7 +61163,7 @@
     },
     {
       "type": "Feature",
-      "id": "resare_polygon.558",
+      "id": "resare_polygon.fid-28d4d3a8_1a1f5600f7d_-724",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -64535,6 +64575,7 @@
       },
       "geometry_name": "geometry",
       "properties": {
+        "pgid": 558,
         "inspireid": "FR000008612700001",
         "catrea": null,
         "restrn": "8,27",
@@ -64549,7 +64590,7 @@
     },
     {
       "type": "Feature",
-      "id": "resare_polygon.1243",
+      "id": "resare_polygon.fid-28d4d3a8_1a1f5600f7d_-723",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -64819,6 +64860,7 @@
       },
       "geometry_name": "geometry",
       "properties": {
+        "pgid": 1243,
         "inspireid": "FR000004350600003",
         "catrea": "4,5",
         "restrn": null,
@@ -64833,7 +64875,7 @@
     },
     {
       "type": "Feature",
-      "id": "resare_polygon.1249",
+      "id": "resare_polygon.fid-28d4d3a8_1a1f5600f7d_-722",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -66363,6 +66405,7 @@
       },
       "geometry_name": "geometry",
       "properties": {
+        "pgid": 1249,
         "inspireid": "FR000016226400001",
         "catrea": null,
         "restrn": "1",
@@ -66379,7 +66422,7 @@
   "totalFeatures": 43,
   "numberMatched": 43,
   "numberReturned": 43,
-  "timeStamp": "2026-11-19T07:30:07.959Z",
+  "timeStamp": "2026-11-19T20:40:54.569Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -66389,7 +66432,7 @@
   "marine_meta": {
     "source": "Shom",
     "type_name": "REGLEMENTATION_NAVIGATION_BDD_WFS:resare_polygon",
-    "generated_at": "2026-11-19T07:30:09+00:00",
+    "generated_at": "2026-11-19T20:40:55+00:00",
     "license": "Licence Ouverte 2.0"
   }
 }

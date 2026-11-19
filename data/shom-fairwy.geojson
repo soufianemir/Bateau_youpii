@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "fairwy_polygon.237",
+      "id": "fairwy_polygon.fid-7db6cc3e_1a1f56e11ed_-4c56",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -101,6 +101,7 @@
       },
       "geometry_name": "geometry",
       "properties": {
+        "pgid": 237,
         "inspireid": "FR000009784000003",
         "drval1": null,
         "orient": null,
@@ -115,7 +116,7 @@
     },
     {
       "type": "Feature",
-      "id": "fairwy_polygon.238",
+      "id": "fairwy_polygon.fid-7db6cc3e_1a1f56e11ed_-4c55",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -189,6 +190,7 @@
       },
       "geometry_name": "geometry",
       "properties": {
+        "pgid": 238,
         "inspireid": "FR000009784500003",
         "drval1": null,
         "orient": null,
@@ -203,7 +205,7 @@
     },
     {
       "type": "Feature",
-      "id": "fairwy_polygon.239",
+      "id": "fairwy_polygon.fid-7db6cc3e_1a1f56e11ed_-4c54",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -249,6 +251,7 @@
       },
       "geometry_name": "geometry",
       "properties": {
+        "pgid": 239,
         "inspireid": "FR000009784600003",
         "drval1": null,
         "orient": null,
@@ -265,7 +268,7 @@
   "totalFeatures": 3,
   "numberMatched": 3,
   "numberReturned": 3,
-  "timeStamp": "2026-11-19T07:30:09.684Z",
+  "timeStamp": "2026-11-19T20:40:55.945Z",
   "crs": {
     "type": "name",
     "properties": {
@@ -275,7 +278,7 @@
   "marine_meta": {
     "source": "Shom",
     "type_name": "REGLEMENTATION_NAVIGATION_BDD_WFS:fairwy_polygon",
-    "generated_at": "2026-11-19T07:30:09+00:00",
+    "generated_at": "2026-11-19T20:40:55+00:00",
     "license": "Licence Ouverte 2.0"
   }
 }
